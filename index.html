@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css">
+    
+    <title>GBFdle</title>
+</head>
+<body>
+  <div class="title">
+    <h1>
+    <img src="src/img/assets/galleon.png" >
+    GBFdle
+    </br>
+    Daily GBF character guess
+  </h1>
+  </div>
+  <div class="main">
+    <h2>⬇️ Guess a character ⬇️</h2>
+    <h2 id="successMessage" style="color: #069C56; font-weight: bold; display: none;">Congratulations !</h2>
+    <div class="custom-select">
+      <div class="dropdown">
+          <input type="text" id="searchInput" placeholder="Guess a character"><i class="arrow down"></i>
+          <div id="characterOptions" class="dropdown-content">
+          </div>
+      </div>
+  </div>
+    <h2>Details</h2>
+    <div id="characterDetails" style="margin-top: 20px;">
+    </div>
+  </div>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
