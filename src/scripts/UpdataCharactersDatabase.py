@@ -44,5 +44,5 @@ while True:
         print(f"Error : {e}")
         break
 # Export data as Json
-with open('data/Characters.json', 'w', encoding='utf-8') as f:
+with open('src/data/Characters.json', 'w', encoding='utf-8') as f:
     json.dump(all_results, f, ensure_ascii=False, indent=4)

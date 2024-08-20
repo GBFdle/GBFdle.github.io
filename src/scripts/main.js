@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         characterOptions.classList.add('show'); // Afficher la liste des options
     });
     // Charger le personnage du jour depuis DailyPick.json
-    fetch('data/DailyPick.json')
+    fetch('src/data/DailyPick.json')
         .then(response => response.json())
         .then(data => {
             dailyPickCharacter = data.title;
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
     // Charger les personnages depuis Characters.json
-    fetch('data/Characters.json')
+    fetch('src/data/Characters.json')
         .then(response => response.json())
         .then(data => {
             data.forEach(item => {

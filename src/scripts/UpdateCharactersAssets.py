@@ -10,7 +10,7 @@ features="html.parser"
 imgPath = 'src/img/characters/'
 
 # Open Json
-with open("data/Characters.json", encoding="utf8") as chara:
+with open("src/data/Characters.json", encoding="utf8") as chara:
     data = json.load(chara)
 
     # Get each character ID
