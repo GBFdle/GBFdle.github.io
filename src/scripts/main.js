@@ -110,8 +110,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       
         // Comparer les dates de sortie
-        console.log(details['release date']);
-        console.log(dailyPickCharacter['release_date']);
 
         if (new Date(details['release date']) > new Date(dailyPickCharacter['release_date'])) {
             resultat.release_date = '#D3212C';
@@ -137,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         // Uppercase Series
         // else {
-        //    details.series = details.series.charAt(0).toUpperCase() + details.series.slice(1);
+        //     details.series = details.series.charAt(0).toUpperCase() + details.series.slice(1);
         // }
       
         // Split Weapons images
@@ -187,14 +185,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const characterInfo = document.createElement('p');
         characterInfo.innerHTML = `
-            <h2><strong style="color: ${resultat.name};">Name :</strong> <span style="color: ${resultat.name};">${details.name}</span><br></h2>
-            <h2><strong style="color: ${resultat.gender};">Gender :</strong> <span style="color: ${resultat.gender};">${FullGender}</span><br></h2>
-            <h2><strong style="color: ${resultat.series};">Series :</strong> <span style="color: ${resultat.series};">${SeriesImage}</span><br></h2>
-            <h2><strong style="color: ${resultat.element};">Element :</strong> <span style="color: ${resultat.element};"><img src="src/img/element/${details.element}.png" class="title-icon"></span><br></h2>
-            <h2><strong style="color: ${resultat.race};">Race :</strong> <span style="color: ${resultat.race};">${RaceImage}</span><br></h2>
-            <h2><strong style="color: ${resultat.weapon};">Weapon(s) :</strong> <span style="color: ${resultat.weapon};">${WeaponImage}</span><br></h2>
-            <h2><strong style="color: ${resultat.release_date};">Release Date :</strong> <span style="color: ${resultat.release_date};">${details['release date']} ${release_date_result}</span><br></h2>
-        `;
+            <div class="result">
+                <h2><strong style="color: ${resultat.name};">Name :</strong> <span style="color: ${resultat.name};">${details.name}</span><br></h2>
+                <h2><strong style="color: ${resultat.gender};">Gender :</strong> <span style="color: ${resultat.gender};">${FullGender}</span><br></h2>
+                <h2><strong style="color: ${resultat.series};">Series :</strong> <span style="color: ${resultat.series};">${SeriesImage}</span><br></h2>
+                <h2><strong style="color: ${resultat.element};">Element :</strong> <span style="color: ${resultat.element};"><img src="src/img/element/${details.element}.png" class="title-icon"></span><br></h2>
+                <h2><strong style="color: ${resultat.race};">Race :</strong> <span style="color: ${resultat.race};">${RaceImage}</span><br></h2>
+                <h2><strong style="color: ${resultat.weapon};">Weapon(s) :</strong> <span style="color: ${resultat.weapon};">${WeaponImage}</span><br></h2>
+                <h2><strong style="color: ${resultat.release_date};">Release Date :</strong> <span style="color: ${resultat.release_date};">${details['release date']} ${release_date_result}</span><br></h2>
+            </div class="result">
+            `;
         characterSection.appendChild(characterInfo);
 
         // Ajouter le personnage sélectionné à la section d'affichage
@@ -202,7 +202,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Vérifier si tous les critères sont corrects
         const allGreen = Object.values(resultat).every(color => color === '#069C56');
-        console.log(allGreen);
 
         if (allGreen) {
             successMessage.style.display = 'block'; // Afficher le message "Bravo !"
