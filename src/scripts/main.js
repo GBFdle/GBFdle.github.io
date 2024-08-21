@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 const option = document.createElement('div');
                 option.dataset.details = JSON.stringify(item.title);
-                option.innerHTML = `<img src="src/img/characters/${id}.png" alt="${name}"> ${fullName}`;
+                option.innerHTML = `${fullName}`;
                 characterOptions.appendChild(option);
 
                 option.addEventListener('click', function() {
@@ -136,9 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
             details.series = 'None';
         }
         // Uppercase Series
-        else {
-            details.series = details.series.charAt(0).toUpperCase() + details.series.slice(1);
-        }
+        // else {
+        //    details.series = details.series.charAt(0).toUpperCase() + details.series.slice(1);
+        // }
       
         // Split Weapons images
         const WeaponsSplit = details.weapon.split(',').map(w => w.trim());
