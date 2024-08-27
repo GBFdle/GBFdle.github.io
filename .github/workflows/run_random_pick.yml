@@ -1,12 +1,10 @@
-name: Exécuter le script randomPick tous les jours
+name: New daily Pick
 
-# Définir la fréquence d'exécution de la pipeline
 on:
   schedule:
-    # Cette expression cron signifie "tous les jours à minuit"
+    # Cron midnight
     - cron: "0 0 * * *"
 
-  # Permet d'exécuter manuellement le workflow via l'interface GitHub
   workflow_dispatch:
 
 jobs:
@@ -14,18 +12,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout du dépôt
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Configurer Python
+      - name: Config Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Installer les dépendances
+      - name: Depandancies
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Exécuter le script randomPick.py
+      - name: Execute randomPick.py
         run: python src/scripts/randomPick.py

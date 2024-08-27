@@ -1,5 +1,6 @@
 import json
 import random
+
 # Open Json
 with open("src/data/Characters.json", encoding="utf8") as chara:
     data = json.load(chara)
