@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Clarisse",
+        "name": "Cagliostro",
         "series": null,
         "weapon": "Staff",
-        "id": "3040046000",
+        "id": "3040120000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2017-04-30"
     }
 }
