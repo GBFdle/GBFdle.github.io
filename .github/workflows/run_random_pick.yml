@@ -28,9 +28,18 @@ jobs:
       - name: Execute randomPick.py
         run: python src/scripts/randomPick.py
 
-      - name: Push changes
-        run: git config user.name "github-actions[bot]"
-             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-             git add .
-             git commit -m "generated"
-             git push
+      - name: Git config
+        run: 
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "new RandomPick"
+
+      - name: Push
+        run: |
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
