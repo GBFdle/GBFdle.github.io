@@ -20,10 +20,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Depandancies
+      - name: Dependencies
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Execute randomPick.py
         run: python src/scripts/randomPick.py
+
+      - name: Push changes
+        run: git config user.name "github-actions[bot]"
+             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+             git add .
+             git commit -m "generated"
+             git push
