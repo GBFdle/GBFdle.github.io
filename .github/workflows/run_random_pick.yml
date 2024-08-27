@@ -25,21 +25,11 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Execute randomPick.py
-        run: python src/scripts/randomPick.py
-
-      - name: Git config
-        run: 
-          git config --global user.name "Dusty535"
-          git config --global user.email "maximefelder535@gmail.com"
-
-      - name: Commit
+      - name: execute py script
         run: |
+          python src/scripts/randomPick.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add .
-          git commit -m "new RandomPick"
-
-      - name: Push
-        run: |
+          git commit -m "crongenerated"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
