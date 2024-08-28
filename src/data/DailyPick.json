@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Cagliostro",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040120000",
-        "race": "Human",
+        "name": "Metera",
+        "series": "holiday",
+        "weapon": "Bow",
+        "id": "3040195000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-04-30"
+        "release_date": "2018-12-17"
     }
 }
