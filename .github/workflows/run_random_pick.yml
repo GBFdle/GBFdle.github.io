@@ -3,7 +3,7 @@ name: New daily Pick
 on:
   schedule:
     # Cron midnight
-    - cron: "0 0 * * *"
+    - cron: "0 22 * * *"
 
   workflow_dispatch:
 
