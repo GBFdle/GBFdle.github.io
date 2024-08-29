@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Metera",
-        "series": "holiday",
-        "weapon": "Bow",
-        "id": "3040195000",
+        "name": "Yuel",
+        "series": null,
+        "weapon": "Katana,Harp",
+        "id": "3040138000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-12-17"
+        "release_date": "2017-10-31"
     }
 }
