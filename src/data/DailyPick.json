@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Clarisse",
+        "name": "Yuel",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040046000",
-        "race": "Human",
+        "weapon": "Katana,Harp",
+        "id": "3040138000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2017-10-31"
     }
 }
