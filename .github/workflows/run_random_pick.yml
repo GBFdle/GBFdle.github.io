@@ -25,13 +25,20 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f src/scripts/requirements.txt ]; then pip install -r src/scripts/requirements.txt; fi
 
-      - name: execute py script
+      - name: execute py database update
         run: |
           python src/scripts/UpdataCharactersDatabase.py
           python src/scripts/UpdateCharactersAssets.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Daily Update Database"
+          git push
+      - name: execute py database update   
+        run: |
           python src/scripts/randomPick.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "crongenerated"
+          git commit -m "Daily Pick"
           git push
