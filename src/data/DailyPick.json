@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Volenna",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040494000",
-        "race": "Human",
+        "name": "Nemone",
+        "series": "holiday",
+        "weapon": "Spear,Axe",
+        "id": "3040306000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-17"
+        "release_date": "2020-11-30"
     }
 }
