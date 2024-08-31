@@ -3,7 +3,7 @@ name: Daily Update
 on:
   schedule:
     # Cron midnight
-    - cron: "0 22 * * *"
+    - cron: "55 21 * * *"
 
   workflow_dispatch:
 
@@ -23,12 +23,14 @@ jobs:
       - name: Dependencies
         run: |
           python -m pip install --upgrade pip
+          if [ -f src/scripts/requirements.txt ]; then pip install -r src/scripts/requirements.txt; fi
 
-      - name: execute py database update   
+      - name: execute py database update
         run: |
-          python src/scripts/randomPick.py
+          python src/scripts/UpdataCharactersDatabase.py
+          python src/scripts/UpdateCharactersAssets.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Daily Pick"
+          git commit -m "Daily Update Database"
           git push
