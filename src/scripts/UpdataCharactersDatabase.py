@@ -22,7 +22,7 @@ while True:
         # Pagination
         params['offset'] = offset
 
-        response = urllib3.request("GET",url, fields=params)
+        response = urllib3.request("GET",url, fields=params, headers=header)
 
         # Extract results
         data = response.json()
@@ -38,7 +38,7 @@ while True:
             break
 
     except urllib3.exceptions.HTTPError as e:
-        print(f"Error : {e.reason}")
+        print(f"Error : {e}")
         break
 # Export data as Json
 with open('src/data/Characters.json', 'w', encoding='utf-8') as f:
