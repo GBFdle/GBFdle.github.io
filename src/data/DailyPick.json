@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Zeta and Vaseraga",
-        "series": "halloween",
-        "weapon": "Spear,Axe",
-        "id": "3040239000",
-        "race": "Human,Draph",
-        "gender": "mf",
+        "name": "Volenna",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040494000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-10-16"
+        "release_date": "2023-11-17"
     }
 }
