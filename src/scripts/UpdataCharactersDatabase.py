@@ -1,5 +1,5 @@
-import requests
 import json
+import urllib3
 
 # Variables
 url = "https://gbf.wiki/api.php"
@@ -15,7 +15,6 @@ params = {
 
 header = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36",}
 
-session = requests.Session()
 all_results = []
 offset = 0
 while True:
@@ -23,8 +22,7 @@ while True:
         # Pagination
         params['offset'] = offset
 
-        response = requests.get(url, params=params, headers=header)
-        response.raise_for_status()
+        response = urllib3.request("GET",url, fields=params, headers=header)
 
         # Extract results
         data = response.json()
