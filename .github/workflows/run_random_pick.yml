@@ -23,7 +23,7 @@ jobs:
       - name: Dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f src/scripts/requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f src/scripts/requirements.txt ]; then pip install -r src/scripts/requirements.txt; fi
 
       - name: execute py script
         run: |
