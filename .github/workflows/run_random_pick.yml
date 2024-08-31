@@ -1,4 +1,4 @@
-name: Daily Update
+name: Daily Pick Update
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
 
-      - name: execute py database update   
+      - name: execute py pick update   
         run: |
           python src/scripts/randomPick.py
           git config user.name github-actions
