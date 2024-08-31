@@ -27,6 +27,8 @@ jobs:
 
       - name: execute py script
         run: |
+          python src/scripts/UpdataCharactersDatabase.py
+          python src/scripts/UpdateCharactersAssets.py
           python src/scripts/randomPick.py
           git config user.name github-actions
           git config user.email github-actions@github.com
