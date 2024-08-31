@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Yuel",
+        "name": "Volenna",
         "series": null,
-        "weapon": "Katana,Harp",
-        "id": "3040138000",
-        "race": "Erune",
+        "weapon": "Sabre",
+        "id": "3040494000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-10-31"
+        "release_date": "2023-11-17"
     }
 }
