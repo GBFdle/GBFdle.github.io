@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Nemone",
+        "name": "Narmaya",
         "series": "holiday",
-        "weapon": "Spear,Axe",
-        "id": "3040306000",
-        "race": "Erune",
+        "weapon": "Katana",
+        "id": "3040249000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-11-30"
+        "release_date": "2019-12-15"
     }
 }
