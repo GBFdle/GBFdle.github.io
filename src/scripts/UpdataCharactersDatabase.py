@@ -1,5 +1,5 @@
+import requests
 import json
-import urllib3
 
 # Variables
 url = "https://gbf.wiki/api.php"
@@ -12,9 +12,11 @@ params = {
     'order_by': "name",
     'limit':"50"
 }
+header = {
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+}
 
-header = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36",}
-
+session = requests.Session()
 all_results = []
 offset = 0
 while True:
@@ -22,7 +24,8 @@ while True:
         # Pagination
         params['offset'] = offset
 
-        response = urllib3.request("GET",url, fields=params, headers=header)
+        response = requests.get(url, params=params, headers=header)
+        response.raise_for_status()
 
         # Extract results
         data = response.json()
@@ -37,7 +40,7 @@ while True:
         else:
             break
 
-    except urllib3.exceptions.HTTPError as e:
+    except requests.exceptions.RequestException as e:
         print(f"Error : {e}")
         break
 # Export data as Json

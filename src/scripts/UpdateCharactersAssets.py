@@ -5,7 +5,7 @@ import os.path
 
 # Variables
 url = "https://gbf.wiki"
-header = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36",}
+header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",}
 features="html.parser"
 imgPath = 'src/img/characters/'
 
@@ -23,12 +23,14 @@ with open("src/data/Characters.json", encoding="utf8") as chara:
                 #Get IMG Link
                 UrlCharacterPreview = url+'/File:Npc_zoom_'+id+'_01.png'
                 print(UrlCharacterPreview)
-                r = requests.get(UrlCharacterPreview)
+                r = requests.get(UrlCharacterPreview, headers=header)
+
                 soup = bs(r.content, features)
                 result = soup.find("div", {"class": "fullImageLink"})
                 CharacterLink = result.find('a')
                 CharacterLink = CharacterLink.get('href')
-                CharacterLink = url + CharacterLink
+                CharacterLink = CharacterLink
+                print(CharacterLink)
 
                 #Download Image
                 with open('src/img/characters/'+id+'.png', 'wb') as handle:
