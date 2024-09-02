@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Kaguya",
-        "series": "grand",
-        "weapon": "Staff",
-        "id": "3040486000",
+        "name": "Enyo",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040365000",
         "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-09-15"
+        "release_date": "2021-10-31"
     }
 }
