@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Seox",
-        "series": "eternals",
-        "weapon": "Melee",
-        "id": "3040262000",
-        "race": "Erune",
+        "name": "Lancelot and Vane",
+        "series": null,
+        "weapon": "Sabre,Spear",
+        "id": "3040191000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-03-04"
+        "release_date": "2018-10-31"
     }
 }
