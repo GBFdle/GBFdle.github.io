@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lancelot and Vane",
+        "name": "Lecia",
         "series": null,
-        "weapon": "Sabre,Spear",
-        "id": "3040191000",
+        "weapon": "Sabre,Gun",
+        "id": "3040263000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-31"
+        "release_date": "2020-02-29"
     }
 }
