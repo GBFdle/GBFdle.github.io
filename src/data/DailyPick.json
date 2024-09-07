@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Galleon",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040544000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Suzaku Kururugi",
+        "series": "tie-in",
+        "weapon": "Sabre,Melee",
+        "id": "3040220000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-08-16"
+        "release_date": "2019-06-14"
     }
 }
