@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Suzaku Kururugi",
-        "series": "tie-in",
-        "weapon": "Sabre,Melee",
-        "id": "3040220000",
+        "name": "Tsubasa",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040180000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-06-14"
+        "release_date": "2018-08-31"
     }
 }
