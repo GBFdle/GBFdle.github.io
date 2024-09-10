@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Vikala",
-        "series": "halloween;12generals",
-        "weapon": "Axe,Melee",
-        "id": "3040488000",
+        "name": "Anne",
+        "series": null,
+        "weapon": "Spear,Staff",
+        "id": "3040524000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-10-18"
+        "release_date": "2024-04-15"
     }
 }
