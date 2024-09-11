@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Anne",
-        "series": null,
-        "weapon": "Spear,Staff",
-        "id": "3040524000",
+        "name": "Joker",
+        "series": "tie-in",
+        "weapon": "Dagger,Gun",
+        "id": "3040173000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-04-15"
+        "release_date": "2018-06-18"
     }
 }
