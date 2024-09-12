@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Joker",
-        "series": "tie-in",
-        "weapon": "Dagger,Gun",
-        "id": "3040173000",
+        "name": "Aoidos",
+        "series": null,
+        "weapon": "Sabre,Harp",
+        "id": "3040076000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-06-18"
+        "release_date": "2016-02-29"
     }
 }
