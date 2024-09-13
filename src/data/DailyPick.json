@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Aoidos",
-        "series": null,
-        "weapon": "Sabre,Harp",
-        "id": "3040076000",
+        "name": "Siegfried",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040344000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-02-29"
+        "release_date": "2021-07-16"
     }
 }
