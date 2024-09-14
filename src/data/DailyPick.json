@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Siegfried",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040344000",
+        "name": "Anderson",
+        "series": null,
+        "weapon": "Spear,Axe",
+        "id": "3040422000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-07-16"
+        "release_date": "2022-08-31"
     }
 }
