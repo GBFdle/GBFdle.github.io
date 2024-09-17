@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Nemone",
-        "series": "holiday",
-        "weapon": "Spear,Axe",
-        "id": "3040306000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Yodarha",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040064000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-11-30"
+        "release_date": "2015-11-19"
     }
 }
