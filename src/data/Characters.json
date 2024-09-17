@@ -1908,20 +1908,6 @@
             "element": "Water",
             "rarity": "SSR",
             "name": "Europa",
-            "series": "grand",
-            "weapon": "Staff,Spear",
-            "id": "3040190000",
-            "race": "Primal",
-            "gender": "f",
-            "release date": "2018-10-17",
-            "release date__precision": "1"
-        }
-    },
-    {
-        "title": {
-            "element": "Water",
-            "rarity": "SSR",
-            "name": "Europa",
             "series": "summer",
             "weapon": "Staff",
             "id": "3040226000",
@@ -1942,6 +1928,20 @@
             "race": "Primal",
             "gender": "f",
             "release date": "2022-11-30",
+            "release date__precision": "1"
+        }
+    },
+    {
+        "title": {
+            "element": "Water",
+            "rarity": "SSR",
+            "name": "Europa",
+            "series": "grand",
+            "weapon": "Staff,Spear",
+            "id": "3040190000",
+            "race": "Primal",
+            "gender": "f",
+            "release date": "2018-10-17",
             "release date__precision": "1"
         }
     },
@@ -2468,12 +2468,12 @@
             "element": "Wind",
             "rarity": "SSR",
             "name": "Grimnir",
-            "series": "grand",
+            "series": "valentine",
             "weapon": "Spear,Staff",
-            "id": "3040212000",
+            "id": "3040261000",
             "race": "Primal",
             "gender": "m",
-            "release date": "2019-04-15",
+            "release date": "2020-02-14",
             "release date__precision": "1"
         }
     },
@@ -2482,12 +2482,12 @@
             "element": "Wind",
             "rarity": "SSR",
             "name": "Grimnir",
-            "series": "valentine",
+            "series": "grand",
             "weapon": "Spear,Staff",
-            "id": "3040261000",
+            "id": "3040212000",
             "race": "Primal",
             "gender": "m",
-            "release date": "2020-02-14",
+            "release date": "2019-04-15",
             "release date__precision": "1"
         }
     },
@@ -4999,6 +4999,34 @@
     },
     {
         "title": {
+            "element": "Wind",
+            "rarity": "SSR",
+            "name": "Noire",
+            "series": null,
+            "weapon": "Sabre",
+            "id": "3040549000",
+            "race": "Primal",
+            "gender": "f",
+            "release date": "2024-09-17",
+            "release date__precision": "1"
+        }
+    },
+    {
+        "title": {
+            "element": "Light",
+            "rarity": "SSR",
+            "name": "Novei",
+            "series": null,
+            "weapon": "Harp",
+            "id": "3040550000",
+            "race": "Human",
+            "gender": "f",
+            "release date": "2024-09-17",
+            "release date__precision": "1"
+        }
+    },
+    {
+        "title": {
             "element": "Earth",
             "rarity": "SSR",
             "name": "Olivia",
@@ -5844,10 +5872,10 @@
             "name": "Seox",
             "series": "eternals",
             "weapon": "Melee",
-            "id": "3040262000",
+            "id": "3040035000",
             "race": "Erune",
             "gender": "m",
-            "release date": "2020-03-04",
+            "release date": "2015-04-16",
             "release date__precision": "1"
         }
     },
@@ -5858,10 +5886,10 @@
             "name": "Seox",
             "series": "eternals",
             "weapon": "Melee",
-            "id": "3040035000",
+            "id": "3040262000",
             "race": "Erune",
             "gender": "m",
-            "release date": "2015-04-16",
+            "release date": "2020-03-04",
             "release date__precision": "1"
         }
     },
