@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Yodarha",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040064000",
-        "race": "Harvin",
-        "gender": "m",
+        "name": "Mimori Amamiya",
+        "series": "tie-in",
+        "weapon": "Harp",
+        "id": "3040295000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-11-19"
+        "release_date": "2020-09-14"
     }
 }
