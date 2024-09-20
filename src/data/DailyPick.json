@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Satyr",
-        "series": null,
-        "weapon": "Sabre,Harp",
-        "id": "3040375000",
+        "name": "Rosetta",
+        "series": "halloween",
+        "weapon": "Dagger,Staff",
+        "id": "3040301000",
         "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-12-28"
+        "release_date": "2020-10-17"
     }
 }
