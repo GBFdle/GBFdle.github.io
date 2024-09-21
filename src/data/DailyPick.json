@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "halloween",
-        "weapon": "Dagger,Staff",
-        "id": "3040301000",
-        "race": "Primal",
+        "name": "De La Fille",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040113000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-10-17"
+        "release_date": "2017-03-20"
     }
 }
