@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "De La Fille",
+        "name": "Sandalphon",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040113000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Sabre,Katana",
+        "id": "3040153000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-03-20"
+        "release_date": "2018-02-28"
     }
 }
