@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040153000",
-        "race": "Primal",
+        "name": "Anre",
+        "series": "eternals",
+        "weapon": "Spear",
+        "id": "3040030000",
+        "race": "Harvin",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-02-28"
+        "release_date": "2015-04-16"
     }
 }
