@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Anre",
-        "series": "eternals",
-        "weapon": "Spear",
-        "id": "3040030000",
-        "race": "Harvin",
+        "name": "Lancelot",
+        "series": "grand",
+        "weapon": "Sabre,Dagger",
+        "id": "3040374000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2021-12-28"
     }
 }
