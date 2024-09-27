@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Black Knight",
-        "series": "grand",
-        "weapon": "Sabre,Gun",
-        "id": "3040082000",
-        "race": "Human",
+        "name": "Zahlhamelina",
+        "series": "yukata",
+        "weapon": "Staff",
+        "id": "3040349000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-28"
+        "release_date": "2021-08-07"
     }
 }
