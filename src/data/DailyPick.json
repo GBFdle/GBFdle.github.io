@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Zahlhamelina",
-        "series": "yukata",
-        "weapon": "Staff",
-        "id": "3040349000",
-        "race": "Harvin",
+        "name": "Nina Drango",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040133000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-08-07"
+        "release_date": "2017-09-20"
     }
 }
