@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Nina Drango",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040133000",
-        "race": "Other",
+        "name": "Pholia",
+        "series": "yukata",
+        "weapon": "Staff,Melee",
+        "id": "3040469000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-09-20"
+        "release_date": "2023-06-30"
     }
 }
