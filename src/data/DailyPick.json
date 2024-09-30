@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Pholia",
-        "series": "yukata",
-        "weapon": "Staff,Melee",
-        "id": "3040469000",
-        "race": "Erune",
+        "name": "Mimori Amamiya",
+        "series": "tie-in",
+        "weapon": "Harp",
+        "id": "3040295000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2020-09-14"
     }
 }
