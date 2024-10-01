@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Mimori Amamiya",
-        "series": "tie-in",
-        "weapon": "Harp",
-        "id": "3040295000",
+        "name": "Monika",
+        "series": "valentine",
+        "weapon": "Sabre,Katana",
+        "id": "3040321000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-09-14"
+        "release_date": "2021-02-14"
     }
 }
