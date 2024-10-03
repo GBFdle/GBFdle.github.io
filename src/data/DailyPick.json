@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Kou",
+        "name": "Zeta",
         "series": null,
-        "weapon": "Katana,Harp",
-        "id": "3040242000",
-        "race": "Erune",
-        "gender": "m",
+        "weapon": "Spear",
+        "id": "3040112000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-10-31"
+        "release_date": "2017-02-28"
     }
 }
