@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Anderson",
-        "series": null,
-        "weapon": "Spear,Axe",
-        "id": "3040422000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Catura",
+        "series": "holiday;12generals",
+        "weapon": "Spear,Melee",
+        "id": "3040437000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-08-31"
+        "release_date": "2022-12-15"
     }
 }
