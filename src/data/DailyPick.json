@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Catura",
-        "series": "holiday;12generals",
-        "weapon": "Spear,Melee",
-        "id": "3040437000",
-        "race": "Draph",
+        "name": "Novei",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040550000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-12-15"
+        "release_date": "2024-09-17"
     }
 }
