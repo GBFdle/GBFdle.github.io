@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Novei",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040550000",
+        "name": "Vira",
+        "series": "fantasy",
+        "weapon": "Harp,Melee",
+        "id": "3040211000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-09-17"
+        "release_date": "2019-03-31"
     }
 }
