@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Monika",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040186000",
+        "name": "Yuji Itadori and Megumi Fushiguro",
+        "series": "tie-in",
+        "weapon": "Melee,Katana",
+        "id": "3040476000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-10-22"
+        "release_date": "2023-08-05"
     }
 }
