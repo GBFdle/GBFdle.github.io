@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Mugen",
-        "series": "halloween",
-        "weapon": "Melee,Harp",
-        "id": "3040428000",
-        "race": "Draph",
-        "gender": "m",
+        "name": "Wamdus",
+        "series": "grand",
+        "weapon": "Staff,Axe",
+        "id": "3040419000",
+        "race": "Harvin",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2022-10-16"
+        "release_date": "2022-08-17"
     }
 }
