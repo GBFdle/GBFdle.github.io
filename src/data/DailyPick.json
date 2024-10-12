@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Wamdus",
-        "series": "grand",
-        "weapon": "Staff,Axe",
-        "id": "3040419000",
-        "race": "Harvin",
-        "gender": "o",
+        "name": "Sylph",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040388000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-08-17"
+        "release_date": "2022-02-28"
     }
 }
