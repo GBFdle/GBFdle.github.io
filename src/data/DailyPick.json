@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Sylph",
+        "name": "Isaac",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040388000",
-        "race": "Primal",
-        "gender": "f",
+        "weapon": "Gun,Melee",
+        "id": "3040327000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-02-28"
+        "release_date": "2021-03-16"
     }
 }
