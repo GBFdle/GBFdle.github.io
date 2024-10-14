@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Isaac",
+        "name": "Naoise",
         "series": null,
-        "weapon": "Gun,Melee",
-        "id": "3040327000",
+        "weapon": "Dagger,Bow",
+        "id": "3040281000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-03-16"
+        "release_date": "2020-06-16"
     }
 }
