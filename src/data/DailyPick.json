@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Naoise",
-        "series": null,
-        "weapon": "Dagger,Bow",
-        "id": "3040281000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Yuni",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040390000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-16"
+        "release_date": "2022-03-19"
     }
 }
