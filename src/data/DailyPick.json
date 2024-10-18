@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "μ&#039;s Second-Years",
-        "series": "tie-in",
-        "weapon": "Bow,Staff",
-        "id": "3040230000",
+        "name": "Clarisse",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040046000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-12"
+        "release_date": "2015-04-16"
     }
 }
