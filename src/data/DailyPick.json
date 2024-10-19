@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Clarisse",
+        "name": "Lilele",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040046000",
-        "race": "Human",
+        "weapon": "Harp",
+        "id": "3040383000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2022-01-31"
     }
 }
