@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Lobelia",
-        "series": "evokers",
-        "weapon": "Staff,Melee",
-        "id": "3040165000",
-        "race": "Human",
+        "name": "Pochacco",
+        "series": "tie-in",
+        "weapon": "Melee",
+        "id": "3040522000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2024-04-01"
     }
 }
