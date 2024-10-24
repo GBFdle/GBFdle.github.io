@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Pochacco",
-        "series": "tie-in",
-        "weapon": "Melee",
-        "id": "3040522000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Charlotta",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040194000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-04-01"
+        "release_date": "2018-11-30"
     }
 }
