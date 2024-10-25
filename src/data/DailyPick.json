@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Charlotta",
-        "series": null,
+        "name": "Golden Knight",
+        "series": "grand",
         "weapon": "Sabre",
-        "id": "3040194000",
-        "race": "Harvin",
+        "id": "3040297000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-11-30"
+        "release_date": "2020-09-16"
     }
 }
