@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Golden Knight",
-        "series": "grand",
-        "weapon": "Sabre",
-        "id": "3040297000",
-        "race": "Erune",
+        "name": "Catura",
+        "series": "12generals",
+        "weapon": "Spear,Melee",
+        "id": "3040313000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-09-16"
+        "release_date": "2020-12-31"
     }
 }
