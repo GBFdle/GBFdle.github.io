@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Seruel",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040013000",
-        "race": "Erune",
+        "name": "Lucio",
+        "series": "grand",
+        "weapon": "Katana,Sabre",
+        "id": "3040106000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-07-16"
+        "release_date": "2016-12-29"
     }
 }
