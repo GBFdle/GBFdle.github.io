@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lucio",
-        "series": "grand",
-        "weapon": "Katana,Sabre",
-        "id": "3040106000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Tien",
+        "series": "eternals",
+        "weapon": "Gun",
+        "id": "3040039000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-12-29"
+        "release_date": "2015-04-16"
     }
 }
