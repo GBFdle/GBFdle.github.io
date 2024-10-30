@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Yodarha",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040064000",
+        "name": "Wamdus",
+        "series": "grand",
+        "weapon": "Staff,Axe",
+        "id": "3040419000",
         "race": "Harvin",
-        "gender": "m",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2015-11-19"
+        "release_date": "2022-08-17"
     }
 }
