@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Karyl",
-        "series": "tie-in",
+        "name": "Marquiares",
+        "series": null,
         "weapon": "Staff",
-        "id": "3040216000",
-        "race": "Other",
-        "gender": "f",
+        "id": "3040108000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-05-29"
+        "release_date": "2017-01-20"
     }
 }
