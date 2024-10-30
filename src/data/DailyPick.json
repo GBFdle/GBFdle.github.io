@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Wamdus",
-        "series": "grand",
-        "weapon": "Staff,Axe",
-        "id": "3040419000",
-        "race": "Harvin",
-        "gender": "o",
+        "name": "Karyl",
+        "series": "tie-in",
+        "weapon": "Staff",
+        "id": "3040216000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-08-17"
+        "release_date": "2019-05-29"
     }
 }
