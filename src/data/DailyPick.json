@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Fediel",
+        "name": "Vira",
         "series": "summer",
-        "weapon": "Melee,Sabre",
-        "id": "3040472000",
-        "race": "Draph",
-        "gender": "o",
+        "weapon": "Sabre",
+        "id": "3040053000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-07-31"
+        "release_date": "2015-07-31"
     }
 }
