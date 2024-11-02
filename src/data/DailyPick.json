@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Vira",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040053000",
-        "race": "Human",
+        "name": "Hallessena",
+        "series": "halloween",
+        "weapon": "Axe",
+        "id": "3040240000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-07-31"
+        "release_date": "2019-10-16"
     }
 }
