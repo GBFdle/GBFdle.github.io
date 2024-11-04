@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Anne",
+        "name": "Robomi",
         "series": null,
-        "weapon": "Spear,Staff",
-        "id": "3040524000",
-        "race": "Human",
+        "weapon": "Gun",
+        "id": "3040155000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-04-15"
+        "release_date": "2018-03-31"
     }
 }
