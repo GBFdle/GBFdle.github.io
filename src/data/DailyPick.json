@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Robomi",
+        "name": "Colossus",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040155000",
-        "race": "Other",
-        "gender": "f",
+        "weapon": "Sabre,Axe",
+        "id": "3040235000",
+        "race": "Primal",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2018-03-31"
+        "release_date": "2019-09-16"
     }
 }
