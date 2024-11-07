@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Doraemon",
-        "series": "tie-in",
-        "weapon": "Gun,Katana",
-        "id": "3040370000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Tikoh",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040337000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-12-08"
+        "release_date": "2021-05-18"
     }
 }
