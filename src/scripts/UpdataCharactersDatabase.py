@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-# Variables
+# Web request
 url = "https://gbf.wiki/api.php"
 params = {
     'action': "cargoquery",
