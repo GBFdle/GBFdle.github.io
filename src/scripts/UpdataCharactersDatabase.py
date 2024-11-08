@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 # Variables
 url = "https://gbf.wiki/api.php"
@@ -13,21 +14,22 @@ params = {
     'limit':"50"
 }
 header = {
-"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
 }
 
 session = requests.Session()
 all_results = []
 offset = 0
+
+retry_count = 0
+max_retries = 10
 while True:
     try:
-        # Pagination
         params['offset'] = offset
 
         response = requests.get(url, params=params, headers=header)
         response.raise_for_status()
-
-        # Extract results
+        
         data = response.json()
         if 'cargoquery' in data:
             results = data['cargoquery']
@@ -40,9 +42,16 @@ while True:
         else:
             break
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error : {e}")
-        break
+        retry_count = 0 
+
+    except requests.exceptions.HTTPError as e:
+        if response.status_code == 403 and retry_count < max_retries:
+            retry_count += 1
+            print(f"Erreur 403, tentative {retry_count}/{max_retries}")
+
+        else:
+            print(f"Erreur : {e}")
+            break
 # Export data as Json
 with open('src/data/Characters.json', 'w', encoding='utf-8') as f:
     json.dump(all_results, f, ensure_ascii=False, indent=4)

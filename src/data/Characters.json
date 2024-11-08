@@ -3655,6 +3655,20 @@
     },
     {
         "title": {
+            "element": "Wind",
+            "rarity": "SSR",
+            "name": "Lecia",
+            "series": null,
+            "weapon": "Sabre",
+            "id": "3040556000",
+            "race": "Human",
+            "gender": "f",
+            "release date": "2024-10-31",
+            "release date__precision": "1"
+        }
+    },
+    {
+        "title": {
             "element": "Dark",
             "rarity": "SSR",
             "name": "Lelouch Lamperouge",
@@ -7178,6 +7192,20 @@
             "race": "Harvin",
             "gender": "o",
             "release date": "2022-08-17",
+            "release date__precision": "1"
+        }
+    },
+    {
+        "title": {
+            "element": "Dark",
+            "rarity": "SSR",
+            "name": "Will",
+            "series": null,
+            "weapon": "Sabre,Staff",
+            "id": "3040557000",
+            "race": "Human",
+            "gender": "m",
+            "release date": "2024-10-31",
             "release date__precision": "1"
         }
     },
