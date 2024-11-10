@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Nina Drango",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040133000",
-        "race": "Other",
+        "name": "Fif",
+        "series": "eternals",
+        "weapon": "Staff",
+        "id": "3040034000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-09-20"
+        "release_date": "2015-04-16"
     }
 }
