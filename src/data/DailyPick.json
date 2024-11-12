@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Heles",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040091000",
+        "name": "Fraux",
+        "series": "evokers",
+        "weapon": "Melee",
+        "id": "3040161000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-08-12"
+        "release_date": "2019-03-10"
     }
 }
