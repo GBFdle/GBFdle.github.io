@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Fraux",
-        "series": "evokers",
-        "weapon": "Melee",
-        "id": "3040161000",
-        "race": "Erune",
+        "name": "Charlotta",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040438000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2022-12-28"
     }
 }
