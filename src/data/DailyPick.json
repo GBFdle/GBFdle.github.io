@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Halluel and Malluel",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040443000",
-        "race": "Primal",
+        "name": "Tikoh",
+        "series": "halloween",
+        "weapon": "Staff",
+        "id": "3040487000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-01-19"
+        "release_date": "2023-10-18"
     }
 }
