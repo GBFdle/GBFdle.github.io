@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tikoh",
-        "series": "halloween",
-        "weapon": "Staff",
-        "id": "3040487000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+        "series": "tie-in",
+        "weapon": "Katana",
+        "id": "3040308000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-10-18"
+        "release_date": "2020-12-08"
     }
 }
