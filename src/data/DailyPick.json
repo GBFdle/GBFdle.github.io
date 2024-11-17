@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040308000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Korwa",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040081000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-08"
+        "release_date": "2016-04-20"
     }
 }
