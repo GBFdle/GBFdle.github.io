@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Korwa",
+        "name": "Monika",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040081000",
-        "race": "Erune",
+        "weapon": "Sabre,Katana",
+        "id": "3040186000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-20"
+        "release_date": "2018-10-22"
     }
 }
