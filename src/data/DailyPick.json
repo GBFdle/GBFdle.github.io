@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Monika",
+        "name": "Catherine",
         "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040186000",
-        "race": "Human",
+        "weapon": "Gun",
+        "id": "3040074000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-22"
+        "release_date": "2016-02-18"
     }
 }
