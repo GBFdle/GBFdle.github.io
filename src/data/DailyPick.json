@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Volenna",
+        "name": "Cucouroux",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040494000",
+        "weapon": "Gun",
+        "id": "3040159000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-17"
+        "release_date": "2018-04-30"
     }
 }
