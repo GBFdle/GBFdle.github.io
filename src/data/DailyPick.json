@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Seox",
-        "series": "eternals",
+        "name": "Hiro Ryugasaki",
+        "series": "tie-in",
         "weapon": "Melee",
-        "id": "3040262000",
-        "race": "Erune",
+        "id": "3040294000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-03-04"
+        "release_date": "2020-09-14"
     }
 }
