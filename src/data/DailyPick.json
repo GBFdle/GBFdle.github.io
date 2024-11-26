@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Kolulu",
+        "name": "Drusilla",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040529000",
-        "race": "Human",
+        "weapon": "Dagger",
+        "id": "3040464000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-04-30"
+        "release_date": "2023-05-31"
     }
 }
