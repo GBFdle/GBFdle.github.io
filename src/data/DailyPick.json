@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Drusilla",
+        "name": "Black Knight and Orchis",
         "series": null,
-        "weapon": "Dagger",
-        "id": "3040464000",
-        "race": "Harvin",
+        "weapon": "Sabre",
+        "id": "3040270000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-05-31"
+        "release_date": "2020-06-24"
     }
 }
