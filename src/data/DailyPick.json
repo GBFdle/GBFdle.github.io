@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Black Knight and Orchis",
+        "name": "Nectar",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040270000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Bow,Katana",
+        "id": "3040318000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-06-24"
+        "release_date": "2021-01-31"
     }
 }
