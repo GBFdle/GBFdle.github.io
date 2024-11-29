@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Nectar",
+        "name": "Barawa and Sarya",
         "series": null,
-        "weapon": "Bow,Katana",
-        "id": "3040318000",
-        "race": "Other",
-        "gender": "m",
+        "weapon": "Gun",
+        "id": "3040493000",
+        "race": "Draph",
+        "gender": "mf",
         "release date__precision": "1",
-        "release_date": "2021-01-31"
+        "release_date": "2023-11-17"
     }
 }
