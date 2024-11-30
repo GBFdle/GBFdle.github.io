@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Barawa and Sarya",
+        "name": "Arulumaya",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040493000",
-        "race": "Draph",
-        "gender": "mf",
+        "weapon": "Staff",
+        "id": "3040367000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-17"
+        "release_date": "2021-11-16"
     }
 }
