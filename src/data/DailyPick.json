@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Arulumaya",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040367000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Suzaku Kururugi",
+        "series": "tie-in",
+        "weapon": "Sabre,Melee",
+        "id": "3040220000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-11-16"
+        "release_date": "2019-06-14"
     }
 }
