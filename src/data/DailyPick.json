@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Kumbhira",
+        "name": "Vikala",
         "series": "12generals",
-        "weapon": "Spear,Axe",
-        "id": "3040197000",
-        "race": "Draph",
+        "weapon": "Axe,Melee",
+        "id": "3040252000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-12-31"
+        "release_date": "2019-12-31"
     }
 }
