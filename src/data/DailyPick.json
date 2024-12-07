@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Katzelia",
-        "series": "evokers",
-        "weapon": "Harp",
-        "id": "3040166000",
-        "race": "Harvin",
-        "gender": "m",
+        "name": "Grea",
+        "series": "summer",
+        "weapon": "Melee",
+        "id": "3040179000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2018-08-14"
     }
 }
