@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Aqours Second-Years",
-        "series": "tie-in",
-        "weapon": "Sabre,Gun",
-        "id": "3040183000",
-        "race": "Human",
+        "name": "Kumbhira",
+        "series": "summer;12generals",
+        "weapon": "Spear,Axe",
+        "id": "3040329000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-08-09"
+        "release_date": "2021-03-31"
     }
 }
