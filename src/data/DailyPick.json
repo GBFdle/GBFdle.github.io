@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Kumbhira",
-        "series": "summer;12generals",
-        "weapon": "Spear,Axe",
-        "id": "3040329000",
-        "race": "Draph",
+        "name": "Pholia",
+        "series": "grand",
+        "weapon": "Staff,Melee",
+        "id": "3040181000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-03-31"
+        "release_date": "2018-08-31"
     }
 }
