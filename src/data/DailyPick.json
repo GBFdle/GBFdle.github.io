@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Wilnas",
-        "series": "halloween",
-        "weapon": "Melee,Axe",
-        "id": "3040553000",
-        "race": "Human",
-        "gender": "o",
+        "name": "Threo",
+        "series": "eternals",
+        "weapon": "Axe,Sabre",
+        "id": "3040032000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-10-15"
+        "release_date": "2015-04-16"
     }
 }
