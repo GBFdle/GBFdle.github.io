@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Threo",
-        "series": "eternals",
-        "weapon": "Axe,Sabre",
-        "id": "3040032000",
-        "race": "Draph",
+        "name": "Kaede Takagaki",
+        "series": "tie-in",
+        "weapon": "Staff,Harp",
+        "id": "3040276000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2020-05-19"
     }
 }
