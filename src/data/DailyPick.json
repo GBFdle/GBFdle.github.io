@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Kaede Takagaki",
-        "series": "tie-in",
-        "weapon": "Staff,Harp",
-        "id": "3040276000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Yodarha",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040259000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-05-19"
+        "release_date": "2020-01-31"
     }
 }
