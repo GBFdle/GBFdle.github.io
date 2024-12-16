@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Shiva",
-        "series": "grand",
-        "weapon": "Spear,Staff",
-        "id": "3040196000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Scathacha",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040260000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-12-28"
+        "release_date": "2020-02-14"
     }
 }
