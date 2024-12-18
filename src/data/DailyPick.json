@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Mary",
-        "series": "holiday",
+        "name": "Silva",
+        "series": null,
         "weapon": "Gun",
-        "id": "3040143000",
+        "id": "3040049000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-15"
+        "release_date": "2015-05-31"
     }
 }
