@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Silva",
-        "series": null,
-        "weapon": "Gun",
-        "id": "3040049000",
+        "name": "Lobelia",
+        "series": "evokers",
+        "weapon": "Staff,Melee",
+        "id": "3040165000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-05-31"
+        "release_date": "2019-03-10"
     }
 }
