@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Lobelia",
-        "series": "evokers",
-        "weapon": "Staff,Melee",
-        "id": "3040165000",
+        "name": "De La Fille",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040113000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2017-03-20"
     }
 }
