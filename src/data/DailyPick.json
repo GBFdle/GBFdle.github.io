@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "De La Fille",
+        "name": "Predator",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040113000",
+        "weapon": "Melee",
+        "id": "3040278000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-03-20"
+        "release_date": "2020-05-15"
     }
 }
