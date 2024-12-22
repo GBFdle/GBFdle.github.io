@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Predator",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040278000",
+        "name": "Cain",
+        "series": "holiday",
+        "weapon": "Katana",
+        "id": "3040436000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2022-12-15"
     }
 }
