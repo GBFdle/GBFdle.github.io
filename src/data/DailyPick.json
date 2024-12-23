@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Cain",
-        "series": "holiday",
-        "weapon": "Katana",
-        "id": "3040436000",
+        "name": "Anderson",
+        "series": null,
+        "weapon": "Spear,Axe",
+        "id": "3040422000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-12-15"
+        "release_date": "2022-08-31"
     }
 }
