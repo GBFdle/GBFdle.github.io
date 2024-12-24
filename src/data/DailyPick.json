@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Anderson",
-        "series": null,
-        "weapon": "Spear,Axe",
-        "id": "3040422000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Magus",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040517000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-08-31"
+        "release_date": "2024-03-15"
     }
 }
