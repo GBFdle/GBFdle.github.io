@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Jessica",
-        "series": "yukata",
-        "weapon": "Gun",
-        "id": "3040227000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Lowain",
+        "series": null,
+        "weapon": "Dagger,Sabre",
+        "id": "3040500000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-07-31"
+        "release_date": "2023-12-28"
     }
 }
