@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Lowain",
-        "series": null,
-        "weapon": "Dagger,Sabre",
-        "id": "3040500000",
+        "name": "Eustace",
+        "series": "summer",
+        "weapon": "Gun,Dagger",
+        "id": "3040411000",
         "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-28"
+        "release_date": "2022-07-31"
     }
 }
