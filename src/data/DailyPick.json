@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Uriel",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040501000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Manamel",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040401000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-12-31"
+        "release_date": "2022-05-20"
     }
 }
