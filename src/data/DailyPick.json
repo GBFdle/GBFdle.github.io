@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Manamel",
+        "name": "Aglovale",
         "series": null,
-        "weapon": "Dagger",
-        "id": "3040401000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre",
+        "id": "3040192000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-05-20"
+        "release_date": "2018-10-31"
     }
 }
