@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Aglovale",
+        "name": "Macula Marius",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040192000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040213000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-31"
+        "release_date": "2019-04-15"
     }
 }
