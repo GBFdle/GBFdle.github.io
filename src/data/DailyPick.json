@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Macula Marius",
+        "name": "Therese",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040213000",
-        "race": "Primal",
+        "weapon": "Sabre",
+        "id": "3040149000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-04-15"
+        "release_date": "2018-01-16"
     }
 }
