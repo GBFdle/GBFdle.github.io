@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vajra",
-        "series": "12generals",
-        "weapon": "Katana,Melee",
-        "id": "3040147000",
-        "race": "Erune",
+        "name": "Florence",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040299000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-31"
+        "release_date": "2020-09-30"
     }
 }
