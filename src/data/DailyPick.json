@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Florence",
+        "name": "Nemone",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040299000",
-        "race": "Human",
+        "weapon": "Axe,Spear",
+        "id": "3040085000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-09-30"
+        "release_date": "2016-05-31"
     }
 }
