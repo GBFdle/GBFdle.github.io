@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Nemone",
+        "name": "Azusa",
         "series": null,
-        "weapon": "Axe,Spear",
-        "id": "3040085000",
-        "race": "Erune",
+        "weapon": "Katana",
+        "id": "3040359000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-05-31"
+        "release_date": "2021-09-30"
     }
 }
