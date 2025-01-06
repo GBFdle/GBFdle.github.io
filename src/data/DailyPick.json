@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Azusa",
+        "name": "Amelia",
         "series": null,
-        "weapon": "Katana",
-        "id": "3040359000",
-        "race": "Draph",
+        "weapon": "Sabre",
+        "id": "3040444000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-09-30"
+        "release_date": "2023-01-19"
     }
 }
