@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Amelia",
+        "name": "Lecia",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040444000",
+        "weapon": "Sabre,Gun",
+        "id": "3040263000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-01-19"
+        "release_date": "2020-02-29"
     }
 }
