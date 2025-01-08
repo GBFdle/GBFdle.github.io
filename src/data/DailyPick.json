@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lecia",
+        "name": "Therese",
         "series": null,
-        "weapon": "Sabre,Gun",
-        "id": "3040263000",
+        "weapon": "Sabre",
+        "id": "3040149000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-02-29"
+        "release_date": "2018-01-16"
     }
 }
