@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Illnott",
-        "series": "holiday",
-        "weapon": "Gun",
-        "id": "3040496000",
+        "name": "Dorothy and Claudia",
+        "series": null,
+        "weapon": "Gun,Melee",
+        "id": "3040134000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-30"
+        "release_date": "2017-09-30"
     }
 }
