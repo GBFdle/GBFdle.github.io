@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Dorothy and Claudia",
+        "name": "Nezahualpilli",
         "series": null,
-        "weapon": "Gun,Melee",
-        "id": "3040134000",
+        "weapon": "Spear",
+        "id": "3040003000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-09-30"
+        "release_date": "2014-03-10"
     }
 }
