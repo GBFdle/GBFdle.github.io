@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Nezahualpilli",
+        "name": "Beatrix",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040003000",
+        "weapon": "Sabre",
+        "id": "3040070000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-03-10"
+        "release_date": "2015-12-31"
     }
 }
