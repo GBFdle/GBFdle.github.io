@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Beatrix",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040070000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Mikazuki Munechika",
+        "series": "tie-in",
+        "weapon": "Katana",
+        "id": "3040131000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-12-31"
+        "release_date": "2017-09-09"
     }
 }
