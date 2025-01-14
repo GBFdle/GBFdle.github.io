@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Mikazuki Munechika",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040131000",
+        "name": "Helel ben Shalem",
+        "series": "summer",
+        "weapon": "Spear,Staff",
+        "id": "3040351000",
         "race": "Other",
-        "gender": "m",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2017-09-09"
+        "release_date": "2021-08-16"
     }
 }
