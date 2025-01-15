@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Helel ben Shalem",
-        "series": "summer",
-        "weapon": "Spear,Staff",
-        "id": "3040351000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Shinsengumi",
+        "series": "tie-in",
+        "weapon": "Katana,Gun",
+        "id": "3040362000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-08-16"
+        "release_date": "2021-10-15"
     }
 }
