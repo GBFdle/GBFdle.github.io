@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Shinsengumi",
-        "series": "tie-in",
-        "weapon": "Katana,Gun",
-        "id": "3040362000",
-        "race": "Human",
+        "name": "Reinhardtzar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040274000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-10-15"
+        "release_date": "2020-04-30"
     }
 }
