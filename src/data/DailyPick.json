@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Reinhardtzar",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040274000",
-        "race": "Draph",
-        "gender": "m",
+        "name": "Societte",
+        "series": null,
+        "weapon": "Melee,Harp",
+        "id": "3040241000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-04-30"
+        "release_date": "2019-10-31"
     }
 }
