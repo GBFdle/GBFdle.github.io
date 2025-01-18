@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Societte",
+        "name": "Agielba",
         "series": null,
-        "weapon": "Melee,Harp",
-        "id": "3040241000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre",
+        "id": "3040017000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-10-31"
+        "release_date": "2014-09-12"
     }
 }
