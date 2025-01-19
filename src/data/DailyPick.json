@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Agielba",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040017000",
-        "race": "Draph",
+        "name": "Lucio",
+        "series": "summer",
+        "weapon": "Katana,Sabre",
+        "id": "3040286000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-09-12"
+        "release_date": "2020-07-16"
     }
 }
