@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Cucouroux",
-        "series": "summer",
-        "weapon": "Gun",
-        "id": "3040539000",
+        "name": "Christina",
+        "series": null,
+        "weapon": "Gun,Dagger",
+        "id": "3040018000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-07-16"
+        "release_date": "2014-09-27"
     }
 }
