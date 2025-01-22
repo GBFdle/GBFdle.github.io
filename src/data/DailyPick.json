@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Christina",
+        "name": "Florence",
         "series": null,
-        "weapon": "Gun,Dagger",
-        "id": "3040018000",
+        "weapon": "Staff",
+        "id": "3040552000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-09-27"
+        "release_date": "2024-09-30"
     }
 }
