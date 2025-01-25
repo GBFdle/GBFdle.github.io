@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Naoise",
+        "name": "Cendrillon",
         "series": null,
-        "weapon": "Dagger,Bow",
-        "id": "3040281000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Dagger,Melee",
+        "id": "3040445000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-16"
+        "release_date": "2023-01-31"
     }
 }
