@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Cendrillon",
-        "series": null,
-        "weapon": "Dagger,Melee",
-        "id": "3040445000",
-        "race": "Other",
+        "name": "De La Fille",
+        "series": "summer",
+        "weapon": "Sabre",
+        "id": "3040014000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-01-31"
+        "release_date": "2014-07-31"
     }
 }
