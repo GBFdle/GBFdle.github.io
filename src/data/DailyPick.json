@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "De La Fille",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040014000",
-        "race": "Human",
+        "name": "Grea",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040355000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-07-31"
+        "release_date": "2021-08-31"
     }
 }
