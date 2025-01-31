@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Catherine",
+        "name": "Lamretta",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040074000",
-        "race": "Erune",
+        "weapon": "Melee",
+        "id": "3040319000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-02-18"
+        "release_date": "2021-01-31"
     }
 }
