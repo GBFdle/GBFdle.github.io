@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lamretta",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040319000",
-        "race": "Draph",
+        "name": "Io",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040015000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-01-31"
+        "release_date": "2014-08-14"
     }
 }
