@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Io",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040015000",
+        "name": "Therese",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040433000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-08-14"
+        "release_date": "2022-11-17"
     }
 }
