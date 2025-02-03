@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Therese",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040433000",
+        "name": "Iroha",
+        "series": "tie-in",
+        "weapon": "Spear",
+        "id": "3040398000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2022-05-14"
     }
 }
