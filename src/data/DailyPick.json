@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Iroha",
-        "series": "tie-in",
-        "weapon": "Spear",
-        "id": "3040398000",
+        "name": "Siegfried",
+        "series": "fantasy",
+        "weapon": "Sabre,Katana",
+        "id": "3040485000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-05-14"
+        "release_date": "2023-09-30"
     }
 }
