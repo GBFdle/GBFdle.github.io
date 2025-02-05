@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Siegfried",
-        "series": "fantasy",
-        "weapon": "Sabre,Katana",
-        "id": "3040485000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Tefnut",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040537000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-09-30"
+        "release_date": "2024-06-30"
     }
 }
