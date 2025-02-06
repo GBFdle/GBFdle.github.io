@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Tefnut",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040537000",
-        "race": "Primal",
+        "name": "Scathacha",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040260000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-06-30"
+        "release_date": "2020-02-14"
     }
 }
