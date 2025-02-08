@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "summer",
-        "weapon": "sabre,katana",
-        "id": "3040224000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Anila",
+        "series": "12generals",
+        "weapon": "Spear,Melee",
+        "id": "3040027000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-06-30"
+        "release_date": "2014-12-31"
     }
 }
