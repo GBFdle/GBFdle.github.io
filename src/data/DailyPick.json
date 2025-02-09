@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Anila",
-        "series": "12generals",
-        "weapon": "Spear,Melee",
-        "id": "3040027000",
-        "race": "Draph",
-        "gender": "f",
+        "name": "Sandalphon",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040153000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-12-31"
+        "release_date": "2018-02-28"
     }
 }
