@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040153000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Illnott",
+        "series": "holiday",
+        "weapon": "Gun",
+        "id": "3040496000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-02-28"
+        "release_date": "2023-11-30"
     }
 }
