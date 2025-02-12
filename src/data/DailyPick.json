@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Lecia",
-        "series": null,
+        "name": "Seofon",
+        "series": "fantasy;eternals",
         "weapon": "Sabre",
-        "id": "3040556000",
+        "id": "3040451000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-10-31"
+        "release_date": "2023-03-04"
     }
 }
