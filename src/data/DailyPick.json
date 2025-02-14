@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Horus",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040518000",
-        "race": "Primal",
+        "name": "Shitori",
+        "series": null,
+        "weapon": "Bow,Katana",
+        "id": "3040244000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-03-15"
+        "release_date": "2019-11-16"
     }
 }
