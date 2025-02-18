@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040123000",
-        "race": "Primal",
+        "name": "Tabina",
+        "series": "summer",
+        "weapon": "Axe,Bow",
+        "id": "3040350000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-06-19"
+        "release_date": "2021-08-07"
     }
 }
