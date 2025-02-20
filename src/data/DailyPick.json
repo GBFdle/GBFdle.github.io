@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Charlotta",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040010000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Fediel",
+        "series": "summer",
+        "weapon": "Melee,Sabre",
+        "id": "3040472000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2014-06-17"
+        "release_date": "2023-07-31"
     }
 }
