@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Eustace",
-        "series": null,
-        "weapon": "Gun",
-        "id": "3040069000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Monika",
+        "series": "grand",
+        "weapon": "Sabre,Katana",
+        "id": "3040238000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-12-31"
+        "release_date": "2019-09-30"
     }
 }
