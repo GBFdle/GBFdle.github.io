@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Monika",
-        "series": "grand",
-        "weapon": "Sabre,Katana",
-        "id": "3040238000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Cassius",
+        "series": "valentine",
+        "weapon": "Spear,Melee",
+        "id": "3040384000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-09-30"
+        "release_date": "2022-02-14"
     }
 }
