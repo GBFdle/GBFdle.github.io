@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Arthur",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040358000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Fif",
+        "series": "eternals",
+        "weapon": "Staff",
+        "id": "3040034000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-09-30"
+        "release_date": "2015-04-16"
     }
 }
