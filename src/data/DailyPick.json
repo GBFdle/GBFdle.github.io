@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Fif",
-        "series": "eternals",
-        "weapon": "Staff",
-        "id": "3040034000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Vaseraga",
+        "series": "summer",
+        "weapon": "Axe",
+        "id": "3040471000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2023-07-15"
     }
 }
