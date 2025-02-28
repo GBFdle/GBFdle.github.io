@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vaseraga",
-        "series": "summer",
-        "weapon": "Axe",
-        "id": "3040471000",
-        "race": "Draph",
+        "name": "Levi",
+        "series": "tie-in",
+        "weapon": "Sabre,Katana",
+        "id": "3040142000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-07-15"
+        "release_date": "2017-12-14"
     }
 }
