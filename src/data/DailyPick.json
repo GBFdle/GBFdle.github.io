@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Levi",
-        "series": "tie-in",
-        "weapon": "Sabre,Katana",
-        "id": "3040142000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Zooey",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040078000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-14"
+        "release_date": "2016-04-06"
     }
 }
