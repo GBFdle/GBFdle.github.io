@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Zooey",
+        "name": "Icarus",
         "series": null,
         "weapon": "Sabre",
-        "id": "3040078000",
-        "race": "Primal",
-        "gender": "f",
+        "id": "3040462000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-04-06"
+        "release_date": "2023-05-20"
     }
 }
