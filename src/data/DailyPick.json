@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Icarus",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040462000",
-        "race": "Human",
+        "name": "Reinhardtzar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040274000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-05-20"
+        "release_date": "2020-04-30"
     }
 }
