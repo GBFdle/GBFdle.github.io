@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Reinhardtzar",
+        "name": "Helel ben Shalem",
         "series": "grand",
-        "weapon": "Melee",
-        "id": "3040274000",
-        "race": "Draph",
-        "gender": "m",
+        "weapon": "Spear,Staff",
+        "id": "3040251000",
+        "race": "Other",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2020-04-30"
+        "release_date": "2019-12-28"
     }
 }
