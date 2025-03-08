@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Seruel",
+        "name": "Richard",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040013000",
-        "race": "Erune",
+        "weapon": "Gun",
+        "id": "3040513000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-07-16"
+        "release_date": "2024-02-29"
     }
 }
