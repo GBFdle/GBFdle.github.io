@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Tikoh",
-        "series": "halloween",
-        "weapon": "Staff",
-        "id": "3040487000",
-        "race": "Erune",
+        "name": "Sara",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040041000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-10-18"
+        "release_date": "2015-01-31"
     }
 }
