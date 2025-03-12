@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Colossus",
+        "name": "Shura",
         "series": null,
-        "weapon": "Sabre,Axe",
-        "id": "3040235000",
-        "race": "Primal",
-        "gender": "o",
+        "weapon": "Spear",
+        "id": "3040273000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-09-16"
+        "release_date": "2020-04-30"
     }
 }
