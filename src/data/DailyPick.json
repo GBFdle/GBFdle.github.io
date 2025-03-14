@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Monika",
-        "series": "grand",
-        "weapon": "Sabre,Katana",
-        "id": "3040238000",
-        "race": "Human",
+        "name": "Medusa",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040123000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-09-30"
+        "release_date": "2017-06-19"
     }
 }
