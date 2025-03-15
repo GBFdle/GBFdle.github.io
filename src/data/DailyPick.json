@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040123000",
-        "race": "Primal",
+        "name": "Nami and Robin",
+        "series": "tie-in",
+        "weapon": "Staff,Melee",
+        "id": "3040418000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-06-19"
+        "release_date": "2022-09-14"
     }
 }
