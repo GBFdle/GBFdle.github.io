@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Danua",
-        "series": "summer",
-        "weapon": "Dagger",
-        "id": "3040055000",
+        "name": "Eahta",
+        "series": "eternals",
+        "weapon": "Katana",
+        "id": "3040037000",
         "race": "Draph",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-08-07"
+        "release_date": "2015-04-16"
     }
 }
