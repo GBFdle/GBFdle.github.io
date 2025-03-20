@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Eahta",
-        "series": "eternals",
-        "weapon": "Katana",
-        "id": "3040037000",
+        "name": "Reinhardtzar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040274000",
         "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2020-04-30"
     }
 }
