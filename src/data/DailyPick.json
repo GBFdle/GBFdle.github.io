@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Reinhardtzar",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040274000",
+        "name": "Agielba",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040017000",
         "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-04-30"
+        "release_date": "2014-09-12"
     }
 }
