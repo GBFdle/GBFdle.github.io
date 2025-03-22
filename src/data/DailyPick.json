@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Agielba",
+        "name": "Anna",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040017000",
-        "race": "Draph",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040402000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-09-12"
+        "release_date": "2022-05-20"
     }
 }
