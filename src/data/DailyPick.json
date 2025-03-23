@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Anna",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040402000",
-        "race": "Human",
+        "name": "Lunalu",
+        "series": "fantasy",
+        "weapon": "Sabre",
+        "id": "3040364000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-05-20"
+        "release_date": "2021-10-31"
     }
 }
