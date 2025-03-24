@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lunalu",
-        "series": "fantasy",
-        "weapon": "Sabre",
-        "id": "3040364000",
-        "race": "Harvin",
+        "name": "Lecia",
+        "series": null,
+        "weapon": "Sabre,Gun",
+        "id": "3040263000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-10-31"
+        "release_date": "2020-02-29"
     }
 }
