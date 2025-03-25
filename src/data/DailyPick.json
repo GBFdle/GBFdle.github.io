@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Lecia",
+        "name": "Elea",
         "series": null,
-        "weapon": "Sabre,Gun",
-        "id": "3040263000",
-        "race": "Human",
+        "weapon": "Sabre,Katana",
+        "id": "3040403000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-02-29"
+        "release_date": "2022-05-31"
     }
 }
