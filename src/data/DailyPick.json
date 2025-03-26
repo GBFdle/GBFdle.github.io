@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Elea",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040403000",
-        "race": "Erune",
+        "name": "Aqours First-Years",
+        "series": "tie-in",
+        "weapon": "Staff",
+        "id": "3040184000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-05-31"
+        "release_date": "2018-08-09"
     }
 }
