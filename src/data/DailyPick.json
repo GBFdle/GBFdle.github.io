@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Aqours First-Years",
-        "series": "tie-in",
+        "name": "Jasmine",
+        "series": null,
         "weapon": "Staff",
-        "id": "3040184000",
+        "id": "3040459000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-08-09"
+        "release_date": "2023-04-18"
     }
 }
