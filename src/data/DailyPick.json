@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Ilsa",
+        "name": "Sophia",
         "series": null,
-        "weapon": "Gun,Bow",
-        "id": "3040258000",
-        "race": "Erune",
+        "weapon": "Staff",
+        "id": "3040024000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-01-31"
+        "release_date": "2014-11-30"
     }
 }
