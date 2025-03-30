@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Sophia",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040024000",
+        "name": "Wilnas",
+        "series": "grand",
+        "weapon": "Melee,Axe",
+        "id": "3040381000",
         "race": "Human",
-        "gender": "f",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2014-11-30"
+        "release_date": "2022-01-31"
     }
 }
