@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Wilnas",
-        "series": "grand",
-        "weapon": "Melee,Axe",
-        "id": "3040381000",
-        "race": "Human",
-        "gender": "o",
+        "name": "Sandalphon",
+        "series": "summer",
+        "weapon": "sabre,katana",
+        "id": "3040224000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-01-31"
+        "release_date": "2019-06-30"
     }
 }
