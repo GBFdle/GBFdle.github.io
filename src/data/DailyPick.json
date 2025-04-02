@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Azazel",
-        "series": "halloween",
-        "weapon": "Dagger,Spear",
-        "id": "3040300000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Shion",
+        "series": "summer",
+        "weapon": "Katana",
+        "id": "3040410000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-10-17"
+        "release_date": "2022-07-15"
     }
 }
