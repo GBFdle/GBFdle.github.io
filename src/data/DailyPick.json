@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Shion",
-        "series": "summer",
-        "weapon": "Katana",
-        "id": "3040410000",
+        "name": "Sara",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040041000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-07-15"
+        "release_date": "2015-01-31"
     }
 }
