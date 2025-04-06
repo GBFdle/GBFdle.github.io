@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lunalu",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040172000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Feower",
+        "series": "eternals",
+        "weapon": "Dagger",
+        "id": "3040033000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-05-31"
+        "release_date": "2015-04-16"
     }
 }
