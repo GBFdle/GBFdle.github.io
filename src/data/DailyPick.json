@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Feower",
-        "series": "eternals",
-        "weapon": "Dagger",
-        "id": "3040033000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Jeanne d&#039;Arc",
+        "series": "grand",
+        "weapon": "Sabre,Spear",
+        "id": "3040245000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2019-11-16"
     }
 }
