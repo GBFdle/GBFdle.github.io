@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Sarunan",
+        "name": "Azazel",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040048000",
-        "race": "Erune",
+        "weapon": "Dagger,Melee",
+        "id": "3040137000",
+        "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-05-25"
+        "release_date": "2017-10-17"
     }
 }
