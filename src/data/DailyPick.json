@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Azazel",
-        "series": null,
-        "weapon": "Dagger,Melee",
-        "id": "3040137000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Cagliostro",
+        "series": "halloween",
+        "weapon": "Staff",
+        "id": "3040062000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-10-17"
+        "release_date": "2015-10-23"
     }
 }
