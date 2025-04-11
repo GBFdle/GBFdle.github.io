@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Cagliostro",
+        "name": "Florence",
         "series": "halloween",
         "weapon": "Staff",
-        "id": "3040062000",
+        "id": "3040429000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-10-23"
+        "release_date": "2022-10-16"
     }
 }
