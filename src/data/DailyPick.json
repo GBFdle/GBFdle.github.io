@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Florence",
-        "series": "halloween",
+        "name": "Zahlhamelina",
+        "series": "yukata",
         "weapon": "Staff",
-        "id": "3040429000",
-        "race": "Human",
+        "id": "3040349000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-10-16"
+        "release_date": "2021-08-07"
     }
 }
