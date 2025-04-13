@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Zahlhamelina",
-        "series": "yukata",
-        "weapon": "Staff",
-        "id": "3040349000",
-        "race": "Harvin",
+        "name": "Michael",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040440000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-08-07"
+        "release_date": "2022-12-31"
     }
 }
