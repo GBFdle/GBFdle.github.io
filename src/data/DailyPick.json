@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Michael",
+        "name": "Rei",
         "series": "grand",
-        "weapon": "Sabre",
-        "id": "3040440000",
-        "race": "Primal",
+        "weapon": "Staff,Katana",
+        "id": "3040265000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-12-31"
+        "release_date": "2020-02-29"
     }
 }
