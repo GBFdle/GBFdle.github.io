@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Rei",
-        "series": "grand",
-        "weapon": "Staff,Katana",
-        "id": "3040265000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Seofon",
+        "series": "eternals",
+        "weapon": "Sabre",
+        "id": "3040036000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-02-29"
+        "release_date": "2015-04-16"
     }
 }
