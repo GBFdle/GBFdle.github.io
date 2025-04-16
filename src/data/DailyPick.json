@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Seofon",
-        "series": "eternals",
-        "weapon": "Sabre",
-        "id": "3040036000",
+        "name": "Siegfried",
+        "series": "yukata",
+        "weapon": "Sabre,Katana",
+        "id": "3040128000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2017-08-09"
     }
 }
