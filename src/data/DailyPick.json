@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Siegfried",
-        "series": "yukata",
-        "weapon": "Sabre,Katana",
-        "id": "3040128000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Andira",
+        "series": "summer;12generals",
+        "weapon": "Staff,Melee",
+        "id": "3040330000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-09"
+        "release_date": "2021-03-31"
     }
 }
