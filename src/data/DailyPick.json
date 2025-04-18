@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Andira",
-        "series": "summer;12generals",
-        "weapon": "Staff,Melee",
-        "id": "3040330000",
-        "race": "Erune",
+        "name": "Abby",
+        "series": null,
+        "weapon": "Axe",
+        "id": "3040284000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-03-31"
+        "release_date": "2020-06-30"
     }
 }
