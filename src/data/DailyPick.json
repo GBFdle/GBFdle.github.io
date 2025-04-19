@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Abby",
-        "series": null,
-        "weapon": "Axe",
-        "id": "3040284000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Nezha",
+        "series": "yukata",
+        "weapon": "Spear",
+        "id": "3040455000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-06-30"
+        "release_date": "2023-03-31"
     }
 }
