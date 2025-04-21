@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Naoise",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040354000",
+        "name": "Clarisse",
+        "series": "holiday",
+        "weapon": "Staff",
+        "id": "3040067000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-08-31"
+        "release_date": "2015-12-19"
     }
 }
