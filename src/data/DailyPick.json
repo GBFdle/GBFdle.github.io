@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Clarisse",
-        "series": "holiday",
+        "name": "Cagliostro",
+        "series": "summer",
         "weapon": "Staff",
-        "id": "3040067000",
+        "id": "3040225000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-12-19"
+        "release_date": "2019-07-17"
     }
 }
