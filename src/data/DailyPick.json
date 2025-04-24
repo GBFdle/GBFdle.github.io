@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Helel ben Shalem",
-        "series": "holiday",
-        "weapon": "Spear,Staff",
-        "id": "3040497000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Conan Edogawa",
+        "series": "tie-in",
+        "weapon": "Gun,Melee",
+        "id": "3040157000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-17"
+        "release_date": "2018-04-04"
     }
 }
