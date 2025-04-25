@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Conan Edogawa",
+        "name": "Sakura Kinomoto",
         "series": "tie-in",
-        "weapon": "Gun,Melee",
-        "id": "3040157000",
+        "weapon": "Staff",
+        "id": "3040136000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-04-04"
+        "release_date": "2017-10-10"
     }
 }
