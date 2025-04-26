@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Sakura Kinomoto",
-        "series": "tie-in",
+        "name": "Clarisse",
+        "series": "holiday",
         "weapon": "Staff",
-        "id": "3040136000",
+        "id": "3040067000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-10-10"
+        "release_date": "2015-12-19"
     }
 }
