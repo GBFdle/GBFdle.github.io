@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Clarisse",
-        "series": "holiday",
+        "name": "Lily",
+        "series": null,
         "weapon": "Staff",
-        "id": "3040067000",
-        "race": "Human",
+        "id": "3040463000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-12-19"
+        "release_date": "2023-05-20"
     }
 }
