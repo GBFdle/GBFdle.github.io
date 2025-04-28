@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lily",
+        "name": "Anna",
         "series": null,
         "weapon": "Staff",
-        "id": "3040463000",
-        "race": "Other",
+        "id": "3040402000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-05-20"
+        "release_date": "2022-05-20"
     }
 }
