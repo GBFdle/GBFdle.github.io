@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Anna",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040402000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Sandalphon",
+        "series": "grand",
+        "weapon": "Sabre,Katana",
+        "id": "3040515000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-05-20"
+        "release_date": "2024-02-29"
     }
 }
