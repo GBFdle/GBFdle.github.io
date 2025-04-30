@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "grand",
-        "weapon": "Sabre,Katana",
-        "id": "3040515000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Fediel",
+        "series": "summer",
+        "weapon": "Melee,Sabre",
+        "id": "3040472000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2024-02-29"
+        "release_date": "2023-07-31"
     }
 }
