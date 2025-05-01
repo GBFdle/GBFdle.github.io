@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Fediel",
+        "name": "Medusa",
         "series": "summer",
-        "weapon": "Melee,Sabre",
-        "id": "3040472000",
-        "race": "Draph",
-        "gender": "o",
+        "weapon": "Staff,Melee",
+        "id": "3040389000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-07-31"
+        "release_date": "2022-03-19"
     }
 }
