@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": "summer",
-        "weapon": "Staff,Melee",
-        "id": "3040389000",
-        "race": "Primal",
+        "name": "Fiorito",
+        "series": "holiday",
+        "weapon": "Melee",
+        "id": "3040435000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-03-19"
+        "release_date": "2022-11-30"
     }
 }
