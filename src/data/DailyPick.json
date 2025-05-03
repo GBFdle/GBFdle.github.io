@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Fiorito",
-        "series": "holiday",
-        "weapon": "Melee",
-        "id": "3040435000",
+        "name": "Jeanne d&#039;Arc",
+        "series": null,
+        "weapon": "Sabre,Spear",
+        "id": "3040040000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-30"
+        "release_date": "2015-01-22"
     }
 }
