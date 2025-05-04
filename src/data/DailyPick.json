@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Jeanne d&#039;Arc",
-        "series": null,
-        "weapon": "Sabre,Spear",
-        "id": "3040040000",
+        "name": "Seofon",
+        "series": "fantasy;eternals",
+        "weapon": "Sabre",
+        "id": "3040451000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-01-22"
+        "release_date": "2023-03-04"
     }
 }
