@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Seofon",
-        "series": "fantasy;eternals",
+        "name": "Baotorda",
+        "series": null,
         "weapon": "Sabre",
-        "id": "3040451000",
-        "race": "Human",
+        "id": "3040124000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-03-04"
+        "release_date": "2017-06-19"
     }
 }
