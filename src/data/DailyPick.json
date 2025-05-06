@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Baotorda",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040124000",
-        "race": "Draph",
+        "name": "Noa",
+        "series": "grand",
+        "weapon": "Staff,Gun",
+        "id": "3040255000",
+        "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-06-19"
+        "release_date": "2019-12-31"
     }
 }
