@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Tsubasa",
+        "name": "Grea",
         "series": null,
         "weapon": "Melee",
-        "id": "3040180000",
-        "race": "Human",
-        "gender": "m",
+        "id": "3040130000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-08-31"
+        "release_date": "2017-08-31"
     }
 }
