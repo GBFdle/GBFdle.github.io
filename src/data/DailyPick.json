@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Grea",
+        "name": "Predator",
         "series": null,
         "weapon": "Melee",
-        "id": "3040130000",
-        "race": "Other",
+        "id": "3040278000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-31"
+        "release_date": "2020-05-15"
     }
 }
