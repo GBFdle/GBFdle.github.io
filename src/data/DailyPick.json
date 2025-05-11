@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Predator",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040278000",
-        "race": "Human",
+        "name": "Rosetta",
+        "series": "holiday",
+        "weapon": "Dagger",
+        "id": "3040026000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2014-12-16"
     }
 }
