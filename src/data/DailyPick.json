@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "holiday",
-        "weapon": "Dagger",
-        "id": "3040026000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Charioce XVII",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040144000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-12-16"
+        "release_date": "2017-12-28"
     }
 }
