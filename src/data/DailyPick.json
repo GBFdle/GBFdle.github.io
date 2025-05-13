@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Charioce XVII",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040144000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Special Week, Silence Suzuka, and Tokai Teio",
+        "series": "tie-in",
+        "weapon": "Melee",
+        "id": "3040353000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-28"
+        "release_date": "2022-02-08"
     }
 }
