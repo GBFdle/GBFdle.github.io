@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Special Week, Silence Suzuka, and Tokai Teio",
-        "series": "tie-in",
-        "weapon": "Melee",
-        "id": "3040353000",
-        "race": "Other",
-        "gender": "f",
+        "name": "Richard",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040513000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-02-08"
+        "release_date": "2024-02-29"
     }
 }
