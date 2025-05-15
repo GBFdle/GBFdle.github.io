@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Richard",
+        "name": "Chloe",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040513000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Melee",
+        "id": "3040530000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-02-29"
+        "release_date": "2024-04-30"
     }
 }
