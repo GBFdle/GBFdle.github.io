@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Vaseraga",
-        "series": null,
-        "weapon": "Axe",
-        "id": "3040324000",
-        "race": "Draph",
-        "gender": "m",
+        "name": "Cupitan",
+        "series": "summer",
+        "weapon": "Bow",
+        "id": "3040468000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-02-28"
+        "release_date": "2023-06-30"
     }
 }
