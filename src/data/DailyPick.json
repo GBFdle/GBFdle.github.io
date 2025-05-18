@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Cupitan",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040468000",
-        "race": "Human",
+        "name": "Special Week, Silence Suzuka, and Tokai Teio",
+        "series": "tie-in",
+        "weapon": "Melee",
+        "id": "3040353000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2022-02-08"
     }
 }
