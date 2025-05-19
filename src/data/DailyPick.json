@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Special Week, Silence Suzuka, and Tokai Teio",
-        "series": "tie-in",
+        "name": "Scathacha",
+        "series": "valentine",
         "weapon": "Melee",
-        "id": "3040353000",
-        "race": "Other",
+        "id": "3040260000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-02-08"
+        "release_date": "2020-02-14"
     }
 }
