@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Orchid",
-        "series": null,
-        "weapon": "Dagger,Melee",
-        "id": "3040446000",
-        "race": "Other",
+        "name": "μ&#039;s Second-Years",
+        "series": "tie-in",
+        "weapon": "Bow,Staff",
+        "id": "3040230000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-01-31"
+        "release_date": "2019-08-12"
     }
 }
