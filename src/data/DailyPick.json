@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Scathacha",
-        "series": "valentine",
+        "name": "Sara",
+        "series": null,
         "weapon": "Melee",
-        "id": "3040260000",
-        "race": "Erune",
+        "id": "3040236000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-02-14"
+        "release_date": "2019-09-16"
     }
 }
