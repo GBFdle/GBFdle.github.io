@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "μ&#039;s Second-Years",
-        "series": "tie-in",
-        "weapon": "Bow,Staff",
-        "id": "3040230000",
+        "name": "Albert",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040045000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-08-12"
+        "release_date": "2015-03-31"
     }
 }
