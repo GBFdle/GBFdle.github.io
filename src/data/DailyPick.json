@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Albert",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040045000",
+        "name": "Vane",
+        "series": "halloween",
+        "weapon": "Spear,Axe",
+        "id": "3040360000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-03-31"
+        "release_date": "2021-10-17"
     }
 }
