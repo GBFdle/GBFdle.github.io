@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Vane",
-        "series": "halloween",
-        "weapon": "Spear,Axe",
-        "id": "3040360000",
-        "race": "Human",
+        "name": "Caro",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040460000",
+        "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-10-17"
+        "release_date": "2023-04-30"
     }
 }
