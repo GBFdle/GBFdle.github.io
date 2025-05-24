@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Caro",
+        "name": "Isaac",
         "series": null,
-        "weapon": "Harp",
-        "id": "3040460000",
-        "race": "Primal",
+        "weapon": "Gun,Melee",
+        "id": "3040327000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-04-30"
+        "release_date": "2021-03-16"
     }
 }
