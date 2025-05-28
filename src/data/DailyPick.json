@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "grand",
-        "weapon": "Sabre,Katana",
-        "id": "3040515000",
-        "race": "Primal",
+        "name": "Aoidos",
+        "series": null,
+        "weapon": "Sabre,Harp",
+        "id": "3040076000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-02-29"
+        "release_date": "2016-02-29"
     }
 }
