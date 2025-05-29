@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Aoidos",
-        "series": null,
-        "weapon": "Sabre,Harp",
-        "id": "3040076000",
+        "name": "Vikala",
+        "series": "halloween;12generals",
+        "weapon": "Axe,Melee",
+        "id": "3040488000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-02-29"
+        "release_date": "2023-10-18"
     }
 }
