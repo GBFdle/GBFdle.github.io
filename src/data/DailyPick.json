@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Cucouroux",
+        "name": "Ms. Miranda",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040159000",
+        "weapon": "Staff",
+        "id": "3040339000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-04-30"
+        "release_date": "2021-05-31"
     }
 }
