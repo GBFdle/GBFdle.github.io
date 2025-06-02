@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Ms. Miranda",
+        "name": "Alliah",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040339000",
-        "race": "Human",
+        "weapon": "Sabre",
+        "id": "3040431000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-05-31"
+        "release_date": "2022-10-31"
     }
 }
