@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Alliah",
+        "name": "Therese",
         "series": null,
         "weapon": "Sabre",
-        "id": "3040431000",
-        "race": "Erune",
+        "id": "3040433000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-10-31"
+        "release_date": "2022-11-17"
     }
 }
