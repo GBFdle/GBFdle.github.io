@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Illnott",
-        "series": "summer",
-        "weapon": "Gun",
-        "id": "3040345000",
+        "name": "Vane",
+        "series": null,
+        "weapon": "Spear,Axe",
+        "id": "3040117000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-07-16"
+        "release_date": "2017-04-18"
     }
 }
