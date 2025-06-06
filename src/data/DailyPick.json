@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vane",
+        "name": "Nezahualpilli",
         "series": null,
-        "weapon": "Spear,Axe",
-        "id": "3040117000",
+        "weapon": "Spear",
+        "id": "3040003000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-04-18"
+        "release_date": "2014-03-10"
     }
 }
