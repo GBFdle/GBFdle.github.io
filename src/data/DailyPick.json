@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Nezahualpilli",
+        "name": "Azazel",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040003000",
-        "race": "Human",
+        "weapon": "Dagger,Melee",
+        "id": "3040137000",
+        "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-03-10"
+        "release_date": "2017-10-17"
     }
 }
