@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Grimnir",
-        "series": "grand",
-        "weapon": "Spear,Staff",
-        "id": "3040212000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Sen",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040204000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-04-15"
+        "release_date": "2019-01-31"
     }
 }
