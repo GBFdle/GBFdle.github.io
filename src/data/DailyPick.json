@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Sen",
+        "name": "Sarunan",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040204000",
+        "weapon": "Staff",
+        "id": "3040008000",
         "race": "Erune",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-01-31"
+        "release_date": "2014-05-23"
     }
 }
