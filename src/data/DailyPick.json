@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Sarunan",
+        "name": "Aglovale",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040008000",
-        "race": "Erune",
+        "weapon": "Sabre",
+        "id": "3040192000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-05-23"
+        "release_date": "2018-10-31"
     }
 }
