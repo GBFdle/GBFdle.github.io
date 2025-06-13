@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Aglovale",
+        "name": "Forte",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040192000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Spear",
+        "id": "3040086000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-31"
+        "release_date": "2016-06-16"
     }
 }
