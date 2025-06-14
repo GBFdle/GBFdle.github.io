@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Forte",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040086000",
-        "race": "Draph",
+        "name": "Cupitan",
+        "series": "summer",
+        "weapon": "Bow",
+        "id": "3040468000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-06-16"
+        "release_date": "2023-06-30"
     }
 }
