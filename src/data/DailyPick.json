@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Cupitan",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040468000",
-        "race": "Human",
+        "name": "Lilele",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040066000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2015-12-02"
     }
 }
