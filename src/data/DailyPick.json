@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lilele",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040066000",
-        "race": "Harvin",
+        "name": "Fenie",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040519000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-12-02"
+        "release_date": "2024-03-15"
     }
 }
