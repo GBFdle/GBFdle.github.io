@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Fenie",
-        "series": "grand",
-        "weapon": "Staff",
-        "id": "3040519000",
-        "race": "Other",
+        "name": "Zooey",
+        "series": null,
+        "weapon": "Gun,Sabre",
+        "id": "3040150000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-03-15"
+        "release_date": "2018-01-31"
     }
 }
