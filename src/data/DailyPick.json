@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Zooey",
-        "series": null,
-        "weapon": "Gun,Sabre",
-        "id": "3040150000",
-        "race": "Primal",
+        "name": "Fif",
+        "series": "eternals",
+        "weapon": "Staff",
+        "id": "3040034000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-01-31"
+        "release_date": "2015-04-16"
     }
 }
