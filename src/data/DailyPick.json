@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Fif",
-        "series": "eternals",
-        "weapon": "Staff",
-        "id": "3040034000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Joker",
+        "series": "tie-in",
+        "weapon": "Dagger,Gun",
+        "id": "3040173000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2018-06-18"
     }
 }
