@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Joker",
-        "series": "tie-in",
-        "weapon": "Dagger,Gun",
-        "id": "3040173000",
+        "name": "Meteon",
+        "series": "holiday",
+        "weapon": "Gun,Melee",
+        "id": "3040246000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-06-18"
+        "release_date": "2019-11-30"
     }
 }
