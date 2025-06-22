@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Metera",
-        "series": null,
-        "weapon": "Bow",
-        "id": "3040072000",
-        "race": "Erune",
+        "name": "Zooey",
+        "series": "summer;grand",
+        "weapon": "Sabre",
+        "id": "3040092000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-01-15"
+        "release_date": "2016-08-18"
     }
 }
