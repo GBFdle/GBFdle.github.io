@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Zooey",
-        "series": "summer;grand",
-        "weapon": "Sabre",
-        "id": "3040092000",
-        "race": "Primal",
+        "name": "Tabina",
+        "series": null,
+        "weapon": "Bow,Axe",
+        "id": "3040234000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-08-18"
+        "release_date": "2019-08-31"
     }
 }
