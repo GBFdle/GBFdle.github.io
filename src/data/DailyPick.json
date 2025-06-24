@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Tabina",
-        "series": null,
-        "weapon": "Bow,Axe",
-        "id": "3040234000",
-        "race": "Human",
+        "name": "Heles",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040091000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-31"
+        "release_date": "2016-08-12"
     }
 }
