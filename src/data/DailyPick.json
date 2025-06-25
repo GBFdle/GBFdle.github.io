@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Heles",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040091000",
-        "race": "Erune",
+        "name": "Silva",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040187000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-08-12"
+        "release_date": "2018-09-30"
     }
 }
