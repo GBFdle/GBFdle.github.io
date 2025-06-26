@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Silva",
-        "series": null,
-        "weapon": "Gun",
-        "id": "3040187000",
-        "race": "Human",
+        "name": "Metera",
+        "series": "holiday",
+        "weapon": "Bow",
+        "id": "3040195000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-09-30"
+        "release_date": "2018-12-17"
     }
 }
