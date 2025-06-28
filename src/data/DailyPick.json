@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Isaac",
+        "name": "Societte",
         "series": null,
-        "weapon": "Gun,Melee",
-        "id": "3040327000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Melee,Harp",
+        "id": "3040044000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-03-16"
+        "release_date": "2015-03-17"
     }
 }
