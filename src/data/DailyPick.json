@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Mary",
-        "series": "holiday",
-        "weapon": "Gun",
-        "id": "3040143000",
+        "name": "Beatrix",
+        "series": "summer",
+        "weapon": "Sabre",
+        "id": "3040110000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-15"
+        "release_date": "2017-02-13"
     }
 }
