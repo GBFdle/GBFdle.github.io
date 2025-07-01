@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Beatrix",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040110000",
+        "name": "Lelouch Lamperouge",
+        "series": "tie-in",
+        "weapon": "Gun",
+        "id": "3040219000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-02-13"
+        "release_date": "2019-06-19"
     }
 }
