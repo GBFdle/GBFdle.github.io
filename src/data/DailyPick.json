@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "De La Fille",
+        "name": "Sophia",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040113000",
+        "weapon": "Staff",
+        "id": "3040397000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-03-20"
+        "release_date": "2022-04-30"
     }
 }
