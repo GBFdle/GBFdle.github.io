@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Sophia",
+        "name": "Will",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040397000",
+        "weapon": "Sabre,Staff",
+        "id": "3040557000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-04-30"
+        "release_date": "2024-10-31"
     }
 }
