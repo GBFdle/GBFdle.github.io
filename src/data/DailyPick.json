@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Will",
+        "name": "Soriz",
         "series": null,
-        "weapon": "Sabre,Staff",
-        "id": "3040557000",
+        "weapon": "Melee",
+        "id": "3040170000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-10-31"
+        "release_date": "2018-05-21"
     }
 }
