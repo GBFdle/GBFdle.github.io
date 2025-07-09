@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Arulumaya",
-        "series": "holiday",
+        "name": "Fif",
+        "series": "eternals",
         "weapon": "Staff",
-        "id": "3040104000",
+        "id": "3040034000",
         "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-12-19"
+        "release_date": "2015-04-16"
     }
 }
