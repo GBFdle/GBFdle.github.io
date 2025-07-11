@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Dante",
-        "series": "halloween",
-        "weapon": "Staff,Melee",
-        "id": "3040489000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Makura",
+        "series": "12generals",
+        "weapon": "Katana",
+        "id": "3040441000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-10-18"
+        "release_date": "2022-12-31"
     }
 }
