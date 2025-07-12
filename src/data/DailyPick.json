@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Makura",
-        "series": "12generals",
-        "weapon": "Katana",
-        "id": "3040441000",
+        "name": "Tien",
+        "series": "eternals",
+        "weapon": "Gun",
+        "id": "3040039000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-12-31"
+        "release_date": "2015-04-16"
     }
 }
