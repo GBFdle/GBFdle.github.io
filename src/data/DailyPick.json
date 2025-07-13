@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Tien",
-        "series": "eternals",
-        "weapon": "Gun",
-        "id": "3040039000",
-        "race": "Erune",
+        "name": "Tweyen",
+        "series": "yukata;eternals",
+        "weapon": "Bow",
+        "id": "3040541000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2024-07-31"
     }
 }
