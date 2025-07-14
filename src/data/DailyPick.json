@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tweyen",
-        "series": "yukata;eternals",
-        "weapon": "Bow",
-        "id": "3040541000",
-        "race": "Human",
+        "name": "Haaselia",
+        "series": "evokers",
+        "weapon": "Staff,Melee",
+        "id": "3040168000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-07-31"
+        "release_date": "2019-03-10"
     }
 }
