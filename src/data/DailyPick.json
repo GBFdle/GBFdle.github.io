@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Haaselia",
-        "series": "evokers",
-        "weapon": "Staff,Melee",
-        "id": "3040168000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Ayer",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040084000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2016-05-18"
     }
 }
