@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Ayer",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040084000",
+        "name": "Vikala",
+        "series": "12generals",
+        "weapon": "Axe,Melee",
+        "id": "3040252000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-05-18"
+        "release_date": "2019-12-31"
     }
 }
