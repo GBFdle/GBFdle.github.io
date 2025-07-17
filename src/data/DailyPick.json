@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Vikala",
-        "series": "12generals",
-        "weapon": "Axe,Melee",
-        "id": "3040252000",
+        "name": "Zeta",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040056000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2015-08-14"
     }
 }
