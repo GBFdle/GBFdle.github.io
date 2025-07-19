@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Olivia",
+        "name": "Adam",
         "series": null,
         "weapon": "Sabre",
-        "id": "3040508000",
-        "race": "Primal",
-        "gender": "f",
+        "id": "3040432000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-01-15"
+        "release_date": "2022-11-17"
     }
 }
