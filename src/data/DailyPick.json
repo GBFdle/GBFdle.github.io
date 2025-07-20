@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Adam",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040432000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Io",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040065000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2015-11-30"
     }
 }
