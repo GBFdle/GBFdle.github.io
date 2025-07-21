@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Io",
-        "series": "grand",
-        "weapon": "Staff",
-        "id": "3040065000",
+        "name": "Ragazzo",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040481000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-11-30"
+        "release_date": "2023-08-31"
     }
 }
