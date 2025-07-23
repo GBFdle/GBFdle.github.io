@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Joker",
-        "series": "tie-in",
-        "weapon": "Dagger,Gun",
-        "id": "3040173000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Ladiva",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040386000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2018-06-18"
+        "release_date": "2022-02-14"
     }
 }
