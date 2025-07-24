@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Ladiva",
-        "series": "valentine",
-        "weapon": "Melee",
-        "id": "3040386000",
-        "race": "Draph",
-        "gender": "o",
+        "name": "Altair",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040001000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-02-14"
+        "release_date": "2014-05-08"
     }
 }
