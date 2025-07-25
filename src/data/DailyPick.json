@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Altair",
-        "series": null,
+        "name": "Cagliostro",
+        "series": "halloween",
         "weapon": "Staff",
-        "id": "3040001000",
+        "id": "3040062000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-05-08"
+        "release_date": "2015-10-23"
     }
 }
