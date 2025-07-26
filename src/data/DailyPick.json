@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Cagliostro",
-        "series": "halloween",
-        "weapon": "Staff",
-        "id": "3040062000",
-        "race": "Human",
+        "name": "Vania",
+        "series": null,
+        "weapon": "Staff,Dagger",
+        "id": "3040057000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-10-23"
+        "release_date": "2015-08-31"
     }
 }
