@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Vania",
-        "series": null,
-        "weapon": "Staff,Dagger",
-        "id": "3040057000",
-        "race": "Other",
-        "gender": "f",
+        "name": "Anre",
+        "series": "eternals",
+        "weapon": "Spear",
+        "id": "3040030000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-08-31"
+        "release_date": "2015-04-16"
     }
 }
