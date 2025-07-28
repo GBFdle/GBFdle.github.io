@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Anre",
-        "series": "eternals",
-        "weapon": "Spear",
-        "id": "3040030000",
-        "race": "Harvin",
-        "gender": "m",
+        "name": "Selfira",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040175000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2018-06-30"
     }
 }
