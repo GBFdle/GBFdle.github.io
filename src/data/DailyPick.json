@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Selfira",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040175000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Zeta and Vaseraga",
+        "series": "halloween",
+        "weapon": "Spear,Axe",
+        "id": "3040239000",
+        "race": "Human,Draph",
+        "gender": "mf",
         "release date__precision": "1",
-        "release_date": "2018-06-30"
+        "release_date": "2019-10-16"
     }
 }
