@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Zeta and Vaseraga",
-        "series": "halloween",
-        "weapon": "Spear,Axe",
-        "id": "3040239000",
-        "race": "Human,Draph",
-        "gender": "mf",
+        "name": "μ&#039;s First-Years",
+        "series": "tie-in",
+        "weapon": "Harp,Staff",
+        "id": "3040229000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-10-16"
+        "release_date": "2019-08-12"
     }
 }
