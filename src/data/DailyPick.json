@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "μ&#039;s First-Years",
-        "series": "tie-in",
-        "weapon": "Harp,Staff",
-        "id": "3040229000",
-        "race": "Human",
+        "name": "Sutera",
+        "series": null,
+        "weapon": "Bow",
+        "id": "3040303000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-12"
+        "release_date": "2020-10-31"
     }
 }
