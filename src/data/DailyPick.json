@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Sutera",
-        "series": null,
-        "weapon": "Bow",
-        "id": "3040303000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Hiro Ryugasaki",
+        "series": "tie-in",
+        "weapon": "Melee",
+        "id": "3040294000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-10-31"
+        "release_date": "2020-09-14"
     }
 }
