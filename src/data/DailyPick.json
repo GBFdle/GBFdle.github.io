@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Hiro Ryugasaki",
-        "series": "tie-in",
-        "weapon": "Melee",
-        "id": "3040294000",
+        "name": "Zeta",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040028000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-09-14"
+        "release_date": "2014-12-31"
     }
 }
