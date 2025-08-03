@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Zeta",
+        "name": "Aoidos",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040028000",
+        "weapon": "Sabre,Harp",
+        "id": "3040076000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-12-31"
+        "release_date": "2016-02-29"
     }
 }
