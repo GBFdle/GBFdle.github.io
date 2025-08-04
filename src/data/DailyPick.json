@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Aoidos",
+        "name": "Therese",
         "series": null,
-        "weapon": "Sabre,Harp",
-        "id": "3040076000",
+        "weapon": "Sabre",
+        "id": "3040433000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-02-29"
+        "release_date": "2022-11-17"
     }
 }
