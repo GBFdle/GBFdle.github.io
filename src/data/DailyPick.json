@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Therese",
+        "name": "Lilele",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040433000",
-        "race": "Human",
+        "weapon": "Harp",
+        "id": "3040066000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2015-12-02"
     }
 }
