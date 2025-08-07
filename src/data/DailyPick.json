@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Wilnas",
-        "series": "grand",
-        "weapon": "Melee,Axe",
-        "id": "3040381000",
+        "name": "Jessica",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040423000",
         "race": "Human",
-        "gender": "o",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-01-31"
+        "release_date": "2022-09-19"
     }
 }
