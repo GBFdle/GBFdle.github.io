@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Jessica",
+        "name": "Zooey",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040423000",
-        "race": "Human",
+        "weapon": "Sabre",
+        "id": "3040078000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-09-19"
+        "release_date": "2016-04-06"
     }
 }
