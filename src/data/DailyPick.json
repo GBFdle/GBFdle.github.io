@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Zooey",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040078000",
-        "race": "Primal",
+        "name": "Cupitan",
+        "series": "summer",
+        "weapon": "Bow",
+        "id": "3040468000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-06"
+        "release_date": "2023-06-30"
     }
 }
