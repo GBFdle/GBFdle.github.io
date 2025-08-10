@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Cupitan",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040468000",
-        "race": "Human",
+        "name": "Sen",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040448000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2023-02-14"
     }
 }
