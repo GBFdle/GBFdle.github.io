@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Aliza",
-        "series": "summer",
-        "weapon": "Melee",
-        "id": "3040474000",
-        "race": "Draph",
-        "gender": "f",
+        "name": "Sandalphon",
+        "series": "valentine",
+        "weapon": "Sabre,Katana",
+        "id": "3040447000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-07-31"
+        "release_date": "2023-02-14"
     }
 }
