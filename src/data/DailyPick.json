@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "valentine",
-        "weapon": "Sabre,Katana",
-        "id": "3040447000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Mishra",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040317000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-02-14"
+        "release_date": "2021-01-17"
     }
 }
