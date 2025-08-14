@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Mishra",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040317000",
-        "race": "Erune",
+        "name": "Charlotta",
+        "series": "halloween",
+        "weapon": "Sabre",
+        "id": "3040020000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-01-17"
+        "release_date": "2014-10-21"
     }
 }
