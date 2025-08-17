@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Nemone",
-        "series": "holiday",
-        "weapon": "Spear,Axe",
-        "id": "3040306000",
-        "race": "Erune",
+        "name": "Vira",
+        "series": "fantasy",
+        "weapon": "Harp,Melee",
+        "id": "3040211000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-11-30"
+        "release_date": "2019-03-31"
     }
 }
