@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Amelia",
+        "name": "Ragazzo",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040444000",
+        "weapon": "Melee",
+        "id": "3040481000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-01-19"
+        "release_date": "2023-08-31"
     }
 }
