@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Ragazzo",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040481000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Catura",
+        "series": "12generals",
+        "weapon": "Spear,Melee",
+        "id": "3040313000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-08-31"
+        "release_date": "2020-12-31"
     }
 }
