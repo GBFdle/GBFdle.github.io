@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Christina",
+        "name": "Arulumaya",
         "series": null,
-        "weapon": "Gun,Dagger",
-        "id": "3040018000",
-        "race": "Human",
+        "weapon": "Staff",
+        "id": "3040367000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-09-27"
+        "release_date": "2021-11-16"
     }
 }
