@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Arulumaya",
+        "name": "Vania",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040367000",
-        "race": "Harvin",
+        "weapon": "Staff,Dagger",
+        "id": "3040057000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-11-16"
+        "release_date": "2015-08-31"
     }
 }
