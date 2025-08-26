@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Vania",
-        "series": null,
-        "weapon": "Staff,Dagger",
-        "id": "3040057000",
+        "name": "Lucio",
+        "series": "summer",
+        "weapon": "Katana,Sabre",
+        "id": "3040286000",
         "race": "Other",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-08-31"
+        "release_date": "2020-07-16"
     }
 }
