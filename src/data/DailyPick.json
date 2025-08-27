@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lucio",
+        "name": "Io",
         "series": "summer",
-        "weapon": "Katana,Sabre",
-        "id": "3040286000",
-        "race": "Other",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040015000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-07-16"
+        "release_date": "2014-08-14"
     }
 }
