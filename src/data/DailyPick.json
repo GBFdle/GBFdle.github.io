@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Io",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040015000",
-        "race": "Human",
+        "name": "Freezie",
+        "series": "fantasy",
+        "weapon": "Gun",
+        "id": "3040182000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-08-14"
+        "release_date": "2018-09-16"
     }
 }
