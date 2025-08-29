@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Freezie",
-        "series": "fantasy",
-        "weapon": "Gun",
-        "id": "3040182000",
+        "name": "Eustace",
+        "series": null,
+        "weapon": "Gun,Dagger",
+        "id": "3040198000",
         "race": "Erune",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-09-16"
+        "release_date": "2018-12-31"
     }
 }
