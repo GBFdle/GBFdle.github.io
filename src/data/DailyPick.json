@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Eustace",
-        "series": null,
-        "weapon": "Gun,Dagger",
-        "id": "3040198000",
+        "name": "Anthuria",
+        "series": "yukata",
+        "weapon": "Melee,Harp",
+        "id": "3040228000",
         "race": "Erune",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-12-31"
+        "release_date": "2019-08-06"
     }
 }
