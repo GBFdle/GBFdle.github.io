@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Anthuria",
-        "series": "yukata",
-        "weapon": "Melee,Harp",
-        "id": "3040228000",
-        "race": "Erune",
+        "name": "Zeta",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040056000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-06"
+        "release_date": "2015-08-14"
     }
 }
