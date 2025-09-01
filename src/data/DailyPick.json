@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Zeta",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040056000",
+        "name": "Suzaku Kururugi",
+        "series": "tie-in",
+        "weapon": "Sabre,Melee",
+        "id": "3040220000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-08-14"
+        "release_date": "2019-06-14"
     }
 }
