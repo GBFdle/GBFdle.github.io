@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Leona",
-        "series": "grand",
-        "weapon": "Spear",
-        "id": "3040285000",
-        "race": "Human",
+        "name": "Vajra",
+        "series": "12generals",
+        "weapon": "Katana,Melee",
+        "id": "3040147000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-30"
+        "release_date": "2017-12-31"
     }
 }
