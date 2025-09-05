@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Shion",
-        "series": "summer",
-        "weapon": "Katana",
-        "id": "3040410000",
-        "race": "Human",
+        "name": "Vajra",
+        "series": "summer;12generals",
+        "weapon": "Katana,Melee",
+        "id": "3040407000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-07-15"
+        "release_date": "2022-06-30"
     }
 }
