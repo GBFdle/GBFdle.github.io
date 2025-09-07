@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "summer",
-        "weapon": "Dagger",
-        "id": "3040176000",
-        "race": "Primal",
+        "name": "Cupitan",
+        "series": null,
+        "weapon": "Bow",
+        "id": "3040379000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-07-18"
+        "release_date": "2022-01-17"
     }
 }
