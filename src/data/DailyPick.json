@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Cupitan",
+        "name": "Vaseraga",
         "series": null,
-        "weapon": "Bow",
-        "id": "3040379000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Axe",
+        "id": "3040029000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-01-17"
+        "release_date": "2014-12-31"
     }
 }
