@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Vaseraga",
+        "name": "Albert",
         "series": null,
-        "weapon": "Axe",
-        "id": "3040029000",
-        "race": "Draph",
+        "weapon": "Sabre",
+        "id": "3040045000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-12-31"
+        "release_date": "2015-03-31"
     }
 }
