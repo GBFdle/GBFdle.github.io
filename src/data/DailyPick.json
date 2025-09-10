@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Albert",
-        "series": null,
+        "name": "Aglovale",
+        "series": "valentine",
         "weapon": "Sabre",
-        "id": "3040045000",
+        "id": "3040322000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-03-31"
+        "release_date": "2021-02-14"
     }
 }
