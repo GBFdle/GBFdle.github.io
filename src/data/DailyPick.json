@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Aglovale",
-        "series": "valentine",
-        "weapon": "Sabre",
-        "id": "3040322000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Lilele",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040066000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-02-14"
+        "release_date": "2015-12-02"
     }
 }
