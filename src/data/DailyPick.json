@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Jessica",
+        "name": "Percival",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040423000",
+        "weapon": "Sabre",
+        "id": "3040050000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-09-19"
+        "release_date": "2015-06-26"
     }
 }
