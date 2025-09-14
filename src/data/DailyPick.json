@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Percival",
+        "name": "Tikoh",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040050000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040337000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-06-26"
+        "release_date": "2021-05-18"
     }
 }
