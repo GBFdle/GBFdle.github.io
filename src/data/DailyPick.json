@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Cantate",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040461000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Meteon",
+        "series": "holiday",
+        "weapon": "Gun,Melee",
+        "id": "3040246000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-04-30"
+        "release_date": "2019-11-30"
     }
 }
