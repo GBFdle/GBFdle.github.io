@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Meteon",
-        "series": "holiday",
-        "weapon": "Gun,Melee",
-        "id": "3040246000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Satyr",
+        "series": null,
+        "weapon": "Sabre,Harp",
+        "id": "3040375000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-11-30"
+        "release_date": "2021-12-28"
     }
 }
