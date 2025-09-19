@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Satyr",
+        "name": "Azazel",
         "series": null,
-        "weapon": "Sabre,Harp",
-        "id": "3040375000",
+        "weapon": "Dagger,Melee",
+        "id": "3040137000",
         "race": "Primal",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-12-28"
+        "release_date": "2017-10-17"
     }
 }
