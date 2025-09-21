@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Razia",
-        "series": null,
-        "weapon": "Spear,Gun",
-        "id": "3040109000",
-        "race": "Draph",
+        "name": "Europa",
+        "series": "grand",
+        "weapon": "Staff,Spear",
+        "id": "3040190000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-01-31"
+        "release_date": "2018-10-17"
     }
 }
