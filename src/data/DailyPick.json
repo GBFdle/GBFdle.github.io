@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Isaac",
-        "series": null,
-        "weapon": "Gun,Melee",
-        "id": "3040327000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Vajra",
+        "series": "summer;12generals",
+        "weapon": "Katana,Melee",
+        "id": "3040407000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-03-16"
+        "release_date": "2022-06-30"
     }
 }
