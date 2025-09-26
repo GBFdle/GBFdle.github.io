@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Shinobu Kocho",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040310000",
-        "race": "Human",
+        "name": "Ferry",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040209000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-13"
+        "release_date": "2019-02-28"
     }
 }
