@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Ferry",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040209000",
-        "race": "Erune",
+        "name": "Narmaya",
+        "series": null,
+        "weapon": "Katana",
+        "id": "3040063000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2015-10-31"
     }
 }
