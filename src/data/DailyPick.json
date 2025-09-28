@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Narmaya",
-        "series": null,
-        "weapon": "Katana",
-        "id": "3040063000",
-        "race": "Draph",
-        "gender": "f",
+        "name": "Seruel",
+        "series": "summer",
+        "weapon": "Sabre",
+        "id": "3040480000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-10-31"
+        "release_date": "2023-08-16"
     }
 }
