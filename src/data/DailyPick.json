@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Seruel",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040480000",
-        "race": "Erune",
+        "name": "Yorozuya",
+        "series": "tie-in",
+        "weapon": "Katana,Melee",
+        "id": "3040363000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-08-16"
+        "release_date": "2021-10-20"
     }
 }
