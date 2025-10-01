@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Vikala",
-        "series": "summer;12generals",
-        "weapon": "Axe,Melee",
-        "id": "3040408000",
+        "name": "Lucius",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040254000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-06-30"
+        "release_date": "2019-12-31"
     }
 }
