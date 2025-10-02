@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lucius",
+        "name": "Anne",
         "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040254000",
+        "weapon": "Spear,Staff",
+        "id": "3040132000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2017-09-14"
     }
 }
