@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Anne",
-        "series": null,
-        "weapon": "Spear,Staff",
-        "id": "3040132000",
+        "name": "Tweyen",
+        "series": "eternals",
+        "weapon": "Bow",
+        "id": "3040031000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-09-14"
+        "release_date": "2015-04-16"
     }
 }
