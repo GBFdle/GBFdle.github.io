@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Anne",
-        "series": null,
-        "weapon": "Spear,Staff",
-        "id": "3040132000",
-        "race": "Human",
+        "name": "Kokkoro",
+        "series": "tie-in",
+        "weapon": "Spear",
+        "id": "3040201000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-09-14"
+        "release_date": "2018-12-09"
     }
 }
