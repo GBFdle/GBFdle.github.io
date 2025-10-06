@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Kokkoro",
-        "series": "tie-in",
-        "weapon": "Spear",
-        "id": "3040201000",
+        "name": "Ewiyar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040452000",
         "race": "Other",
-        "gender": "f",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2018-12-09"
+        "release_date": "2023-03-16"
     }
 }
