@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "New Generations",
-        "series": "tie-in",
-        "weapon": "Sabre,Gun",
-        "id": "3040275000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Agielba",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040017000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2014-09-12"
     }
 }
