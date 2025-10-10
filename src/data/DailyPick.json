@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Agielba",
+        "name": "Yuel and Societte",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040017000",
-        "race": "Draph",
-        "gender": "m",
+        "weapon": "Katana,Harp",
+        "id": "3040430000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-09-12"
+        "release_date": "2022-10-31"
     }
 }
