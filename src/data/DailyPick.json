@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Yuel and Societte",
-        "series": null,
-        "weapon": "Katana,Harp",
-        "id": "3040430000",
+        "name": "Eustace",
+        "series": "halloween",
+        "weapon": "Gun",
+        "id": "3040099000",
         "race": "Erune",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-10-31"
+        "release_date": "2016-10-24"
     }
 }
