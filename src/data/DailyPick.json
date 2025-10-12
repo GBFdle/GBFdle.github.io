@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Eustace",
+        "name": "Cagliostro",
         "series": "halloween",
-        "weapon": "Gun",
-        "id": "3040099000",
-        "race": "Erune",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040062000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-10-24"
+        "release_date": "2015-10-23"
     }
 }
