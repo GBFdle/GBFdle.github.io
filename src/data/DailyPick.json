@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Cagliostro",
-        "series": "halloween",
-        "weapon": "Staff",
-        "id": "3040062000",
+        "name": "Shion",
+        "series": null,
+        "weapon": "Katana",
+        "id": "3040333000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-10-23"
+        "release_date": "2021-04-19"
     }
 }
