@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Colossus",
-        "series": null,
-        "weapon": "Sabre,Axe",
-        "id": "3040235000",
-        "race": "Primal",
-        "gender": "o",
+        "name": "Joker",
+        "series": "tie-in",
+        "weapon": "Dagger,Gun",
+        "id": "3040173000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-09-16"
+        "release_date": "2018-06-18"
     }
 }
