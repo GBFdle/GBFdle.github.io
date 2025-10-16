@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Joker",
-        "series": "tie-in",
-        "weapon": "Dagger,Gun",
-        "id": "3040173000",
+        "name": "Vira",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040243000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-06-18"
+        "release_date": "2019-12-13"
     }
 }
