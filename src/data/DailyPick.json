@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vira",
+        "name": "Sho",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040243000",
+        "weapon": "Melee",
+        "id": "3040338000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-12-13"
+        "release_date": "2021-05-31"
     }
 }
