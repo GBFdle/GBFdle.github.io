@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Sho",
+        "name": "Morrigna",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040338000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040218000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-05-31"
+        "release_date": "2019-05-31"
     }
 }
