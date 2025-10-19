@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Morrigna",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040218000",
-        "race": "Primal",
+        "name": "Heles",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040091000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-05-31"
+        "release_date": "2016-08-12"
     }
 }
