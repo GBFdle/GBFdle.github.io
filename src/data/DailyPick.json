@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Heles",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040091000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Ladiva",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040217000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2016-08-12"
+        "release_date": "2019-05-31"
     }
 }
