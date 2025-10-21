@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Ladiva",
+        "name": "Yuel and Societte",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040217000",
-        "race": "Draph",
-        "gender": "o",
+        "weapon": "Katana,Harp",
+        "id": "3040430000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-05-31"
+        "release_date": "2022-10-31"
     }
 }
