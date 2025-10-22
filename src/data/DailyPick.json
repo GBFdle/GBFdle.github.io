@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Yuel and Societte",
+        "name": "Utsusemi",
         "series": null,
-        "weapon": "Katana,Harp",
-        "id": "3040430000",
-        "race": "Erune",
+        "weapon": "Harp,Dagger",
+        "id": "3040491000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-10-31"
+        "release_date": "2023-10-31"
     }
 }
