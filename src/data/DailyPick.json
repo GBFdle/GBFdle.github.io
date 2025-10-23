@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Utsusemi",
+        "name": "Shion",
         "series": null,
-        "weapon": "Harp,Dagger",
-        "id": "3040491000",
-        "race": "Draph",
+        "weapon": "Katana",
+        "id": "3040333000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-10-31"
+        "release_date": "2021-04-19"
     }
 }
