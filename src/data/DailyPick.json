@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Shion",
+        "name": "Chat Noir",
         "series": null,
-        "weapon": "Katana",
-        "id": "3040333000",
+        "weapon": "Staff,Dagger",
+        "id": "3040093000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-04-19"
+        "release_date": "2016-08-31"
     }
 }
