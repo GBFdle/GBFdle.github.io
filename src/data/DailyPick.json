@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Chat Noir",
-        "series": null,
-        "weapon": "Staff,Dagger",
-        "id": "3040093000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Catura",
+        "series": "12generals",
+        "weapon": "Spear,Melee",
+        "id": "3040313000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-08-31"
+        "release_date": "2020-12-31"
     }
 }
