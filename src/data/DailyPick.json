@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Catura",
-        "series": "12generals",
-        "weapon": "Spear,Melee",
-        "id": "3040313000",
-        "race": "Draph",
+        "name": "Zeta",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040112000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-31"
+        "release_date": "2017-02-28"
     }
 }
