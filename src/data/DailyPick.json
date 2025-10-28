@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Meg and Mari",
+        "name": "Forte",
         "series": null,
-        "weapon": "Dagger,Melee",
-        "id": "3040482000",
-        "race": "Human,Erune",
+        "weapon": "Spear",
+        "id": "3040086000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-08-31"
+        "release_date": "2016-06-16"
     }
 }
