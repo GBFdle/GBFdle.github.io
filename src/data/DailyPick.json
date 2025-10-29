@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Forte",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040086000",
-        "race": "Draph",
+        "name": "Mary",
+        "series": "holiday",
+        "weapon": "Gun",
+        "id": "3040143000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-06-16"
+        "release_date": "2017-12-15"
     }
 }
