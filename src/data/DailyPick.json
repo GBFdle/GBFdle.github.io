@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Mary",
-        "series": "holiday",
-        "weapon": "Gun",
-        "id": "3040143000",
+        "name": "Siegfried",
+        "series": "yukata",
+        "weapon": "Sabre,Katana",
+        "id": "3040128000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-12-15"
+        "release_date": "2017-08-09"
     }
 }
