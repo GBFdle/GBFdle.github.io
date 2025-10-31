@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Siegfried",
-        "series": "yukata",
-        "weapon": "Sabre,Katana",
-        "id": "3040128000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Manamel",
+        "series": "halloween",
+        "weapon": "Dagger",
+        "id": "3040555000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-09"
+        "release_date": "2024-10-15"
     }
 }
