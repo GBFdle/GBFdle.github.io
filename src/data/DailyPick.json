@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Vaseraga",
-        "series": "summer",
-        "weapon": "Axe",
-        "id": "3040471000",
-        "race": "Draph",
-        "gender": "m",
+        "name": "Sakura Kinomoto",
+        "series": "tie-in",
+        "weapon": "Staff",
+        "id": "3040136000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-07-15"
+        "release_date": "2017-10-10"
     }
 }
