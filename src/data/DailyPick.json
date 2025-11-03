@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Sakura Kinomoto",
-        "series": "tie-in",
-        "weapon": "Staff",
-        "id": "3040136000",
+        "name": "Sho",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040338000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-10-10"
+        "release_date": "2021-05-31"
     }
 }
