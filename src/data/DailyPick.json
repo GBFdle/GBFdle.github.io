@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Sho",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040338000",
+        "name": "μ&#039;s First-Years",
+        "series": "tie-in",
+        "weapon": "Harp,Staff",
+        "id": "3040229000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-05-31"
+        "release_date": "2019-08-12"
     }
 }
