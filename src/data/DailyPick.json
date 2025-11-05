@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "μ&#039;s First-Years",
-        "series": "tie-in",
-        "weapon": "Harp,Staff",
-        "id": "3040229000",
+        "name": "Vira",
+        "series": "summer",
+        "weapon": "Sabre",
+        "id": "3040053000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-12"
+        "release_date": "2015-07-31"
     }
 }
