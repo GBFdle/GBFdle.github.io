@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Vira",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040053000",
-        "race": "Human",
+        "name": "Ferry",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040209000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-07-31"
+        "release_date": "2019-02-28"
     }
 }
