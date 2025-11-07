@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Ferry",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040209000",
+        "name": "Yuisis",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040253000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2019-12-31"
     }
 }
