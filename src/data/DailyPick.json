@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Yuisis",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040253000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Meteon",
+        "series": "holiday",
+        "weapon": "Gun,Melee",
+        "id": "3040246000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2019-11-30"
     }
 }
