@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Meteon",
-        "series": "holiday",
-        "weapon": "Gun,Melee",
-        "id": "3040246000",
+        "name": "Lecia",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040556000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-11-30"
+        "release_date": "2024-10-31"
     }
 }
