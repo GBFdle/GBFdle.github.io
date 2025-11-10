@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Lecia",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040556000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Mikazuki Munechika",
+        "series": "tie-in",
+        "weapon": "Katana",
+        "id": "3040131000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-10-31"
+        "release_date": "2017-09-09"
     }
 }
