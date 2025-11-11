@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Mikazuki Munechika",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040131000",
-        "race": "Other",
+        "name": "Eustace",
+        "series": "summer",
+        "weapon": "Gun,Dagger",
+        "id": "3040411000",
+        "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-09-09"
+        "release_date": "2022-07-31"
     }
 }
