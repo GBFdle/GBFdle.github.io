@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Uriel",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040501000",
-        "race": "Primal",
+        "name": "Naoise",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040354000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-31"
+        "release_date": "2021-08-31"
     }
 }
