@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Hallessena",
+        "name": "Vane",
         "series": null,
-        "weapon": "Axe",
-        "id": "3040079000",
-        "race": "Draph",
-        "gender": "f",
+        "weapon": "Spear,Axe",
+        "id": "3040117000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-03-18"
+        "release_date": "2017-04-18"
     }
 }
