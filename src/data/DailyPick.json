@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Vane",
-        "series": null,
-        "weapon": "Spear,Axe",
-        "id": "3040117000",
+        "name": "De La Fille",
+        "series": "yukata",
+        "weapon": "Sabre",
+        "id": "3040520000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-04-18"
+        "release_date": "2024-03-31"
     }
 }
