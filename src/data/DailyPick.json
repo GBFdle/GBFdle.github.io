@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "De La Fille",
-        "series": "yukata",
-        "weapon": "Sabre",
-        "id": "3040520000",
+        "name": "Zeta",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040323000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-03-31"
+        "release_date": "2021-02-28"
     }
 }
