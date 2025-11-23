@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Zeta",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040323000",
+        "name": "Percival",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040425000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-02-28"
+        "release_date": "2022-09-30"
     }
 }
