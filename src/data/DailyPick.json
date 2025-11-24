@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Percival",
-        "series": "grand",
-        "weapon": "Sabre",
-        "id": "3040425000",
-        "race": "Human",
-        "gender": "m",
+        "name": "You",
+        "series": null,
+        "weapon": "Melee,Katana",
+        "id": "3040393000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-09-30"
+        "release_date": "2022-04-19"
     }
 }
