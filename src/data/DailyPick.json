@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "You",
-        "series": null,
-        "weapon": "Melee,Katana",
-        "id": "3040393000",
-        "race": "Erune",
+        "name": "Lilisette",
+        "series": "tie-in",
+        "weapon": "Dagger",
+        "id": "3040399000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-04-19"
+        "release_date": "2022-05-09"
     }
 }
