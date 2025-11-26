@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Lilisette",
-        "series": "tie-in",
-        "weapon": "Dagger",
-        "id": "3040399000",
-        "race": "Other",
+        "name": "Jasmine",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040459000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-05-09"
+        "release_date": "2023-04-18"
     }
 }
