@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Jasmine",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040459000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Sandalphon",
+        "series": "valentine",
+        "weapon": "Sabre,Katana",
+        "id": "3040447000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-04-18"
+        "release_date": "2023-02-14"
     }
 }
