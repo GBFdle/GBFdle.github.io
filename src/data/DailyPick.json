@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Silva",
-        "series": "summer",
-        "weapon": "Gun",
-        "id": "3040291000",
+        "name": "Jasmine",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040459000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-08-17"
+        "release_date": "2023-04-18"
     }
 }
