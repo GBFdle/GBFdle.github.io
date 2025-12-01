@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Florence",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040552000",
+        "name": "Silva",
+        "series": "summer",
+        "weapon": "Gun",
+        "id": "3040291000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-09-30"
+        "release_date": "2020-08-17"
     }
 }
