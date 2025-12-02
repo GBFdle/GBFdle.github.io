@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Silva",
-        "series": "summer",
-        "weapon": "Gun",
-        "id": "3040291000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Colossus",
+        "series": null,
+        "weapon": "Sabre,Axe",
+        "id": "3040235000",
+        "race": "Primal",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2020-08-17"
+        "release_date": "2019-09-16"
     }
 }
