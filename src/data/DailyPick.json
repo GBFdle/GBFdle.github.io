@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Catura",
-        "series": "holiday;12generals",
-        "weapon": "Spear,Melee",
-        "id": "3040437000",
-        "race": "Draph",
+        "name": "Katalina",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040054000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-12-15"
+        "release_date": "2015-07-31"
     }
 }
