@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Helel ben Shalem",
-        "series": "holiday",
-        "weapon": "Spear,Staff",
-        "id": "3040497000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Ferry",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040209000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-12-17"
+        "release_date": "2019-02-28"
     }
 }
