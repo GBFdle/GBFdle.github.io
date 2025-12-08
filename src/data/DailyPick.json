@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Ferry",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040209000",
-        "race": "Erune",
+        "name": "Forte",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040086000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2016-06-16"
     }
 }
