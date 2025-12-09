@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Forte",
+        "name": "Yodarha",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040086000",
-        "race": "Draph",
-        "gender": "f",
+        "weapon": "Sabre,Katana",
+        "id": "3040259000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-06-16"
+        "release_date": "2020-01-31"
     }
 }
