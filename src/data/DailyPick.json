@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040214000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Naoise",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040178000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-04-30"
+        "release_date": "2018-07-31"
     }
 }
