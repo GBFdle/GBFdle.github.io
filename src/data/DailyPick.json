@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Narmaya",
-        "series": "holiday",
-        "weapon": "Katana",
-        "id": "3040249000",
-        "race": "Draph",
+        "name": "Cantate",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040461000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-12-15"
+        "release_date": "2023-04-30"
     }
 }
