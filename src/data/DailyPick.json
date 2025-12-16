@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Cantate",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040461000",
-        "race": "Erune",
+        "name": "Lady Katapillar and Vira",
+        "series": "fantasy",
+        "weapon": "Melee,Gun",
+        "id": "3040116000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-04-30"
+        "release_date": "2017-03-31"
     }
 }
