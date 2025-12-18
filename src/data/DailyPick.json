@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Volenna",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040494000",
+        "name": "Black Knight",
+        "series": "grand",
+        "weapon": "Sabre,Gun",
+        "id": "3040082000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-17"
+        "release_date": "2016-04-28"
     }
 }
