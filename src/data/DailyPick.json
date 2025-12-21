@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Jeanne d&#039;Arc",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040080000",
-        "race": "Human",
+        "name": "Rosetta",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040068000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-04"
+        "release_date": "2015-12-29"
     }
 }
