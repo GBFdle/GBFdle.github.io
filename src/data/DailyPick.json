@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040068000",
-        "race": "Primal",
+        "name": "Charlotta",
+        "series": "halloween",
+        "weapon": "Sabre",
+        "id": "3040020000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-12-29"
+        "release_date": "2014-10-21"
     }
 }
