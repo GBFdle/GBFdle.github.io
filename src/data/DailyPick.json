@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Charlotta",
-        "series": "halloween",
-        "weapon": "Sabre",
-        "id": "3040020000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Orologia",
+        "series": "grand",
+        "weapon": "Axe,Staff",
+        "id": "3040536000",
+        "race": "Other",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2014-10-21"
+        "release_date": "2024-06-15"
     }
 }
