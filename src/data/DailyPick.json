@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Orologia",
-        "series": "grand",
-        "weapon": "Axe,Staff",
-        "id": "3040536000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Yuni",
+        "series": "holiday",
+        "weapon": "Staff",
+        "id": "3040495000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-06-15"
+        "release_date": "2023-11-30"
     }
 }
