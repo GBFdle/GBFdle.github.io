@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Yuni",
-        "series": "holiday",
-        "weapon": "Staff",
-        "id": "3040495000",
-        "race": "Primal",
+        "name": "Rosamia",
+        "series": "yukata",
+        "weapon": "Sabre",
+        "id": "3040289000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-11-30"
+        "release_date": "2020-07-31"
     }
 }
