@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Rosamia",
-        "series": "yukata",
-        "weapon": "Sabre",
-        "id": "3040289000",
+        "name": "Naoise",
+        "series": null,
+        "weapon": "Dagger,Bow",
+        "id": "3040281000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-07-31"
+        "release_date": "2020-06-16"
     }
 }
