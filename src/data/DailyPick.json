@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Naoise",
-        "series": null,
-        "weapon": "Dagger,Bow",
-        "id": "3040281000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Azusa",
+        "series": "summer",
+        "weapon": "Katana",
+        "id": "3040453000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-16"
+        "release_date": "2023-03-16"
     }
 }
