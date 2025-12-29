@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Meteon",
-        "series": "holiday",
-        "weapon": "Gun,Melee",
-        "id": "3040246000",
+        "name": "Siegfried",
+        "series": "yukata",
+        "weapon": "Sabre,Katana",
+        "id": "3040128000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-11-30"
+        "release_date": "2017-08-09"
     }
 }
