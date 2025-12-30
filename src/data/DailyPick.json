@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Siegfried",
-        "series": "yukata",
-        "weapon": "Sabre,Katana",
-        "id": "3040128000",
-        "race": "Human",
+        "name": "Seox",
+        "series": "eternals",
+        "weapon": "Melee",
+        "id": "3040035000",
+        "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-08-09"
+        "release_date": "2015-04-16"
     }
 }
