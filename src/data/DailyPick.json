@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Seox",
-        "series": "eternals",
-        "weapon": "Melee",
-        "id": "3040035000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Vira",
+        "series": "grand",
+        "weapon": "Axe,Spear",
+        "id": "3040141000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2017-11-17"
     }
 }
