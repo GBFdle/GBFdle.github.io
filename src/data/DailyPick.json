@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Vira",
-        "series": "grand",
-        "weapon": "Axe,Spear",
-        "id": "3040141000",
-        "race": "Primal",
+        "name": "Korwa",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040465000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-11-17"
+        "release_date": "2023-05-31"
     }
 }
