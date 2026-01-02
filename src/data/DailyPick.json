@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Korwa",
+        "name": "Enyo",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040465000",
-        "race": "Erune",
+        "weapon": "Spear",
+        "id": "3040365000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-05-31"
+        "release_date": "2021-10-31"
     }
 }
