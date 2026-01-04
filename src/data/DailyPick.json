@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Korwa",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040081000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Joker",
+        "series": "tie-in",
+        "weapon": "Dagger,Gun",
+        "id": "3040173000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-04-20"
+        "release_date": "2018-06-18"
     }
 }
