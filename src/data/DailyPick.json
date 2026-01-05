@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Joker",
-        "series": "tie-in",
-        "weapon": "Dagger,Gun",
-        "id": "3040173000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Fediel",
+        "series": "summer",
+        "weapon": "Melee,Sabre",
+        "id": "3040472000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2018-06-18"
+        "release_date": "2023-07-31"
     }
 }
