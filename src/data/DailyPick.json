@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Fediel",
-        "series": "summer",
-        "weapon": "Melee,Sabre",
-        "id": "3040472000",
+        "name": "Lamretta",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040319000",
         "race": "Draph",
-        "gender": "o",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-07-31"
+        "release_date": "2021-01-31"
     }
 }
