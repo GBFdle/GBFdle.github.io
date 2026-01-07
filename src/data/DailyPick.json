@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Lamretta",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040319000",
-        "race": "Draph",
+        "name": "Cucouroux",
+        "series": "halloween",
+        "weapon": "Gun",
+        "id": "3040361000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-01-31"
+        "release_date": "2021-10-17"
     }
 }
