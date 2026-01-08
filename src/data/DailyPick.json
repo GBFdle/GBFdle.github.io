@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Cucouroux",
-        "series": "halloween",
-        "weapon": "Gun",
-        "id": "3040361000",
+        "name": "New Generations",
+        "series": "tie-in",
+        "weapon": "Sabre,Gun",
+        "id": "3040275000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-10-17"
+        "release_date": "2020-05-15"
     }
 }
