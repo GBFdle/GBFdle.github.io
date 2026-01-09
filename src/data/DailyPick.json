@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "New Generations",
+        "name": "Lilisette",
         "series": "tie-in",
-        "weapon": "Sabre,Gun",
-        "id": "3040275000",
-        "race": "Human",
+        "weapon": "Dagger",
+        "id": "3040399000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2022-05-09"
     }
 }
