@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Lilisette",
-        "series": "tie-in",
-        "weapon": "Dagger",
-        "id": "3040399000",
-        "race": "Other",
+        "name": "Narmaya",
+        "series": "yukata",
+        "weapon": "Katana",
+        "id": "3040392000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-05-09"
+        "release_date": "2022-03-31"
     }
 }
