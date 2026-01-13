@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Kolulu",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040283000",
-        "race": "Human",
+        "name": "Metera",
+        "series": null,
+        "weapon": "Bow",
+        "id": "3040072000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-30"
+        "release_date": "2016-01-15"
     }
 }
