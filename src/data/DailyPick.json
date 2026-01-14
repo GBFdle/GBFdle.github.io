@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Metera",
-        "series": null,
-        "weapon": "Bow",
-        "id": "3040072000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Ewiyar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040452000",
+        "race": "Other",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2016-01-15"
+        "release_date": "2023-03-16"
     }
 }
