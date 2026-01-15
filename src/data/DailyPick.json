@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Ewiyar",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040452000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Jamil",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040404000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-03-16"
+        "release_date": "2022-05-31"
     }
 }
