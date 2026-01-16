@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Jamil",
+        "name": "Farrah and Juri",
         "series": null,
-        "weapon": "Dagger",
-        "id": "3040404000",
+        "weapon": "Sabre",
+        "id": "3040325000",
         "race": "Human",
-        "gender": "m",
+        "gender": "mf",
         "release date__precision": "1",
-        "release_date": "2022-05-31"
+        "release_date": "2021-02-28"
     }
 }
