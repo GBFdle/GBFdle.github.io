@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Drusilla",
-        "series": null,
-        "weapon": "Dagger",
-        "id": "3040464000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Vane",
+        "series": "halloween",
+        "weapon": "Spear,Axe",
+        "id": "3040360000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-05-31"
+        "release_date": "2021-10-17"
     }
 }
