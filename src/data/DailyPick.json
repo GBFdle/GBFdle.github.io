@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Therese",
+        "name": "Lennah",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040433000",
-        "race": "Human",
+        "weapon": "Staff",
+        "id": "3040340000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2021-06-18"
     }
 }
