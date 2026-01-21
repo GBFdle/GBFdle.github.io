@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Lennah",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040340000",
-        "race": "Other",
-        "gender": "f",
+        "name": "Ladiva",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040386000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2021-06-18"
+        "release_date": "2022-02-14"
     }
 }
