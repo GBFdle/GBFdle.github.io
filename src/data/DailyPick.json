@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Ladiva",
-        "series": "valentine",
-        "weapon": "Melee",
-        "id": "3040386000",
-        "race": "Draph",
-        "gender": "o",
+        "name": "Catherine",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040484000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-02-14"
+        "release_date": "2023-09-30"
     }
 }
