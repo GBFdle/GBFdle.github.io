@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Sturm",
-        "series": "grand",
+        "name": "Rosamia",
+        "series": null,
         "weapon": "Sabre",
-        "id": "3040115000",
-        "race": "Draph",
+        "id": "3040087000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-03-31"
+        "release_date": "2016-06-30"
     }
 }
