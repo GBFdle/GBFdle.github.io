@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Cupitan",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040468000",
-        "race": "Human",
+        "name": "Charlotta",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040438000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2022-12-28"
     }
 }
