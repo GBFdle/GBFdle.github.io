@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Charlotta",
-        "series": "grand",
-        "weapon": "Sabre",
-        "id": "3040438000",
-        "race": "Harvin",
+        "name": "Nemone",
+        "series": "holiday",
+        "weapon": "Spear,Axe",
+        "id": "3040306000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-12-28"
+        "release_date": "2020-11-30"
     }
 }
