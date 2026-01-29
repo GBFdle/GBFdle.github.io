@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Nemone",
-        "series": "holiday",
-        "weapon": "Spear,Axe",
-        "id": "3040306000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Percival",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040050000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-11-30"
+        "release_date": "2015-06-26"
     }
 }
