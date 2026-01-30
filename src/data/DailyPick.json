@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Percival",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040050000",
+        "name": "Wilnas",
+        "series": "grand",
+        "weapon": "Melee,Axe",
+        "id": "3040381000",
         "race": "Human",
-        "gender": "m",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2015-06-26"
+        "release_date": "2022-01-31"
     }
 }
