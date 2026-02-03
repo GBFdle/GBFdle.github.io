@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Sui",
-        "series": null,
-        "weapon": "Melee,Harp",
-        "id": "3040531000",
-        "race": "Other",
+        "name": "Mary",
+        "series": "holiday",
+        "weapon": "Gun",
+        "id": "3040143000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-05-15"
+        "release_date": "2017-12-15"
     }
 }
