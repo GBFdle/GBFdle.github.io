@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Mary",
-        "series": "holiday",
-        "weapon": "Gun",
-        "id": "3040143000",
+        "name": "Black Knight",
+        "series": "grand",
+        "weapon": "Sabre,Gun",
+        "id": "3040082000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-15"
+        "release_date": "2016-04-28"
     }
 }
