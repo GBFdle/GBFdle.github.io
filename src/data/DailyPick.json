@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Black Knight",
+        "name": "Monika",
         "series": "grand",
-        "weapon": "Sabre,Gun",
-        "id": "3040082000",
+        "weapon": "Sabre,Katana",
+        "id": "3040238000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-28"
+        "release_date": "2019-09-30"
     }
 }
