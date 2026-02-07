@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Monika",
-        "series": "valentine",
-        "weapon": "Sabre,Katana",
-        "id": "3040321000",
-        "race": "Human",
+        "name": "Rosetta",
+        "series": "holiday",
+        "weapon": "Dagger",
+        "id": "3040026000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-02-14"
+        "release_date": "2014-12-16"
     }
 }
