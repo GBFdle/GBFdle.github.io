@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "holiday",
-        "weapon": "Dagger",
-        "id": "3040026000",
-        "race": "Primal",
+        "name": "Mishra",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040317000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-12-16"
+        "release_date": "2021-01-17"
     }
 }
