@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Nier",
-        "series": "yukata;evokers",
-        "weapon": "Axe,Dagger",
-        "id": "3040546000",
-        "race": "Erune",
+        "name": "Olivia",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040508000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-08-16"
+        "release_date": "2024-01-15"
     }
 }
