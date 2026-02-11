@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Olivia",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040508000",
-        "race": "Primal",
+        "name": "Lady Grey",
+        "series": "halloween",
+        "weapon": "Spear,Melee",
+        "id": "3040189000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-01-15"
+        "release_date": "2018-10-17"
     }
 }
