@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lady Grey",
-        "series": "halloween",
-        "weapon": "Spear,Melee",
-        "id": "3040189000",
+        "name": "Aglovale",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040192000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-10-17"
+        "release_date": "2018-10-31"
     }
 }
