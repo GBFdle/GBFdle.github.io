@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Aglovale",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040192000",
-        "race": "Human",
+        "name": "Estarriola",
+        "series": "evokers",
+        "weapon": "Staff",
+        "id": "3040163000",
+        "race": "Harvin",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-10-31"
+        "release_date": "2019-03-10"
     }
 }
