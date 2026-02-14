@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Estarriola",
-        "series": "evokers",
-        "weapon": "Staff",
-        "id": "3040163000",
-        "race": "Harvin",
-        "gender": "m",
+        "name": "Meg and Mari",
+        "series": null,
+        "weapon": "Dagger,Melee",
+        "id": "3040482000",
+        "race": "Human,Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2023-08-31"
     }
 }
