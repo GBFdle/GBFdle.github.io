@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Grea",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040130000",
-        "race": "Other",
+        "name": "Tefnut",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040537000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-31"
+        "release_date": "2024-06-30"
     }
 }
