@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Rei",
-        "series": "grand",
-        "weapon": "Staff,Katana",
-        "id": "3040265000",
-        "race": "Harvin",
+        "name": "Magisa",
+        "series": "holiday",
+        "weapon": "Staff,Melee",
+        "id": "3040247000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-02-29"
+        "release_date": "2019-11-30"
     }
 }
