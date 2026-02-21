@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Herja",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040271000",
-        "race": "Human",
+        "name": "Medusa",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040151000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-04-15"
+        "release_date": "2018-02-14"
     }
 }
