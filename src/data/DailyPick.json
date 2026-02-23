@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Sen",
+        "name": "Farrah and Juri",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040204000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre",
+        "id": "3040325000",
+        "race": "Human",
+        "gender": "mf",
         "release date__precision": "1",
-        "release_date": "2019-01-31"
+        "release_date": "2021-02-28"
     }
 }
