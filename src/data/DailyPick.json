@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Ayer",
-        "series": null,
+        "name": "Geisenborger",
+        "series": "evokers",
         "weapon": "Melee",
-        "id": "3040084000",
-        "race": "Human",
+        "id": "3040162000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-05-18"
+        "release_date": "2019-03-10"
     }
 }
