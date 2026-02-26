@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Geisenborger",
-        "series": "evokers",
-        "weapon": "Melee",
-        "id": "3040162000",
-        "race": "Draph",
+        "name": "Lucius",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040254000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2019-12-31"
     }
 }
