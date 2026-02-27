@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lucius",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040254000",
+        "name": "Lancelot",
+        "series": "grand",
+        "weapon": "Sabre,Dagger",
+        "id": "3040374000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2021-12-28"
     }
 }
