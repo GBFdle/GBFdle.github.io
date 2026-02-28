@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Lancelot",
-        "series": "grand",
-        "weapon": "Sabre,Dagger",
-        "id": "3040374000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Nier",
+        "series": "evokers",
+        "weapon": "Axe,Dagger",
+        "id": "3040169000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-12-28"
+        "release_date": "2019-03-10"
     }
 }
