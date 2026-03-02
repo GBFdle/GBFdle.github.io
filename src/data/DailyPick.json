@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Cosmos",
-        "series": "grand",
-        "weapon": "Gun,Sabre",
-        "id": "3040467000",
-        "race": "Primal",
+        "name": "Danua",
+        "series": null,
+        "weapon": "Dagger,Axe",
+        "id": "3040256000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-19"
+        "release_date": "2020-01-17"
     }
 }
