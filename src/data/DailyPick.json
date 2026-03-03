@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Danua",
+        "name": "Katalina",
         "series": null,
-        "weapon": "Dagger,Axe",
-        "id": "3040256000",
-        "race": "Draph",
+        "weapon": "Sabre",
+        "id": "3040118000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-01-17"
+        "release_date": "2017-04-30"
     }
 }
