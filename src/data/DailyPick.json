@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Katalina",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040118000",
-        "race": "Human",
+        "name": "Heles",
+        "series": "summer",
+        "weapon": "Spear",
+        "id": "3040091000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-04-30"
+        "release_date": "2016-08-12"
     }
 }
