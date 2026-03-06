@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Charioce XVII",
+        "name": "Catherine",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040144000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Gun",
+        "id": "3040484000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-28"
+        "release_date": "2023-09-30"
     }
 }
