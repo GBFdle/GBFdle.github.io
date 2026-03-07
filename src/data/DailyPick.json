@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Catherine",
+        "name": "Lowain",
         "series": null,
-        "weapon": "Gun",
-        "id": "3040484000",
+        "weapon": "Dagger,Sabre",
+        "id": "3040500000",
         "race": "Erune",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-09-30"
+        "release_date": "2023-12-28"
     }
 }
