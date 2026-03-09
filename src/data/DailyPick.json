@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Juliet",
+        "name": "Veight",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040096000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Dagger",
+        "id": "3040094000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-09-30"
+        "release_date": "2016-09-15"
     }
 }
