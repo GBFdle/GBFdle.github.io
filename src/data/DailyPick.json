@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Juliet",
+        "name": "Gawain",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040096000",
+        "weapon": "Axe,Spear",
+        "id": "3040000000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-09-30"
+        "release_date": "2014-04-24"
     }
 }
