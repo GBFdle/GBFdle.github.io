@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Gawain",
+        "name": "Eustace",
         "series": null,
-        "weapon": "Axe,Spear",
-        "id": "3040000000",
-        "race": "Human",
+        "weapon": "Gun,Dagger",
+        "id": "3040198000",
+        "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-04-24"
+        "release_date": "2018-12-31"
     }
 }
