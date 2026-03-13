@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Eustace",
-        "series": null,
-        "weapon": "Gun,Dagger",
-        "id": "3040198000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Cupitan",
+        "series": "summer",
+        "weapon": "Bow",
+        "id": "3040468000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-12-31"
+        "release_date": "2023-06-30"
     }
 }
