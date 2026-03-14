@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Cupitan",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040468000",
+        "name": "Silva",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040187000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2018-09-30"
     }
 }
