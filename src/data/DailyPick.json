@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Silva",
-        "series": null,
-        "weapon": "Gun",
-        "id": "3040187000",
-        "race": "Human",
+        "name": "Europa",
+        "series": "holiday",
+        "weapon": "Staff",
+        "id": "3040434000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-09-30"
+        "release_date": "2022-11-30"
     }
 }
