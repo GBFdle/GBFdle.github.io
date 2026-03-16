@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Europa",
-        "series": "holiday",
-        "weapon": "Staff",
-        "id": "3040434000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Lowain",
+        "series": null,
+        "weapon": "Dagger,Sabre",
+        "id": "3040500000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-11-30"
+        "release_date": "2023-12-28"
     }
 }
