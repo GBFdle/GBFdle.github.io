@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lowain",
-        "series": null,
-        "weapon": "Dagger,Sabre",
-        "id": "3040500000",
-        "race": "Erune",
+        "name": "Reinhardtzar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040274000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-28"
+        "release_date": "2020-04-30"
     }
 }
