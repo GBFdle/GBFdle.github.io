@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Reinhardtzar",
-        "series": "grand",
-        "weapon": "Melee",
-        "id": "3040274000",
-        "race": "Draph",
-        "gender": "m",
+        "name": "Diantha",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040296000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-04-30"
+        "release_date": "2020-09-16"
     }
 }
