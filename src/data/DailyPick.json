@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Adam",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040432000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Cosmos",
+        "series": "grand",
+        "weapon": "Gun,Sabre",
+        "id": "3040467000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2023-06-19"
     }
 }
