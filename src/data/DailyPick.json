@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Cosmos",
-        "series": "grand",
-        "weapon": "Gun,Sabre",
-        "id": "3040467000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Lowain",
+        "series": null,
+        "weapon": "Dagger,Sabre",
+        "id": "3040500000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-06-19"
+        "release_date": "2023-12-28"
     }
 }
