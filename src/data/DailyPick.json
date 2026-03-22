@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lowain",
+        "name": "Baal",
         "series": null,
-        "weapon": "Dagger,Sabre",
-        "id": "3040500000",
-        "race": "Erune",
+        "weapon": "Harp,Axe",
+        "id": "3040466000",
+        "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-28"
+        "release_date": "2023-06-19"
     }
 }
