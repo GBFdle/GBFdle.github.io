@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Ferry",
-        "series": "grand",
-        "weapon": "Dagger",
-        "id": "3040209000",
+        "name": "Tien",
+        "series": "eternals",
+        "weapon": "Gun",
+        "id": "3040039000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2015-04-16"
     }
 }
