@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tien",
-        "series": "eternals",
-        "weapon": "Gun",
-        "id": "3040039000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+        "series": "tie-in",
+        "weapon": "Katana",
+        "id": "3040308000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2020-12-08"
     }
 }
