@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040308000",
+        "name": "Monika",
+        "series": null,
+        "weapon": "Sabre,Katana",
+        "id": "3040186000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-08"
+        "release_date": "2018-10-22"
     }
 }
