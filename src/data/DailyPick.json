@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Mimlemel",
-        "series": "summer",
-        "weapon": "Melee,Harp",
-        "id": "3040292000",
-        "race": "Harvin",
+        "name": "Yuni",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040390000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-08-17"
+        "release_date": "2022-03-19"
     }
 }
