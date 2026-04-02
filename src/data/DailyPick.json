@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Vane",
-        "series": null,
-        "weapon": "Spear,Axe",
-        "id": "3040117000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Fenie",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040519000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-04-18"
+        "release_date": "2024-03-15"
     }
 }
