@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Olivia",
-        "series": "grand",
-        "weapon": "Sabre",
-        "id": "3040145000",
-        "race": "Primal",
+        "name": "Jessica",
+        "series": "yukata",
+        "weapon": "Gun",
+        "id": "3040227000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-29"
+        "release_date": "2019-07-31"
     }
 }
