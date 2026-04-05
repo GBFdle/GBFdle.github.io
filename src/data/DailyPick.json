@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Jessica",
-        "series": "yukata",
-        "weapon": "Gun",
-        "id": "3040227000",
+        "name": "Caim",
+        "series": "evokers",
+        "weapon": "Dagger,Melee",
+        "id": "3040164000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-07-31"
+        "release_date": "2019-03-10"
     }
 }
