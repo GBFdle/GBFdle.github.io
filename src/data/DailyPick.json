@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Eugen",
-        "series": "grand",
-        "weapon": "Gun",
-        "id": "3040077000",
-        "race": "Human",
+        "name": "Seox",
+        "series": "eternals",
+        "weapon": "Melee",
+        "id": "3040035000",
+        "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-02-26"
+        "release_date": "2015-04-16"
     }
 }
