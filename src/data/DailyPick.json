@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Seox",
-        "series": "eternals",
-        "weapon": "Melee",
-        "id": "3040035000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Lilele",
+        "series": null,
+        "weapon": "Harp",
+        "id": "3040383000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2022-01-31"
     }
 }
