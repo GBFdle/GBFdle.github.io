@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Adam",
+        "name": "You",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040432000",
-        "race": "Other",
-        "gender": "m",
+        "weapon": "Melee,Katana",
+        "id": "3040393000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-11-17"
+        "release_date": "2022-04-19"
     }
 }
