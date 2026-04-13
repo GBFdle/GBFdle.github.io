@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Nemone",
+        "name": "Baotorda",
         "series": null,
-        "weapon": "Axe,Spear",
-        "id": "3040085000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre",
+        "id": "3040124000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-05-31"
+        "release_date": "2017-06-19"
     }
 }
