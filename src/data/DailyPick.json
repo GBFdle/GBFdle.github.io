@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Baotorda",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040124000",
-        "race": "Draph",
+        "name": "Eugen",
+        "series": "grand",
+        "weapon": "Gun",
+        "id": "3040077000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-06-19"
+        "release_date": "2016-02-26"
     }
 }
