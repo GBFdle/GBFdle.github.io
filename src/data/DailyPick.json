@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Eugen",
-        "series": "grand",
-        "weapon": "Gun",
-        "id": "3040077000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Athena",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040202000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-02-26"
+        "release_date": "2018-12-31"
     }
 }
