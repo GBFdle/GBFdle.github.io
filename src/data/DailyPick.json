@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Mikazuki Munechika",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040131000",
+        "name": "Nectar",
+        "series": null,
+        "weapon": "Katana,Bow",
+        "id": "3040535000",
         "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-09-09"
+        "release_date": "2024-06-15"
     }
 }
