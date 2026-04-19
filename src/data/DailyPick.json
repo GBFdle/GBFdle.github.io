@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Nectar",
-        "series": null,
-        "weapon": "Katana,Bow",
-        "id": "3040535000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Ladiva",
+        "series": "valentine",
+        "weapon": "Melee",
+        "id": "3040386000",
+        "race": "Draph",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2024-06-15"
+        "release_date": "2022-02-14"
     }
 }
