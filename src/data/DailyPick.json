@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Magisa",
-        "series": "holiday",
-        "weapon": "Staff,Melee",
-        "id": "3040247000",
-        "race": "Human",
+        "name": "Grea",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040130000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-11-30"
+        "release_date": "2017-08-31"
     }
 }
