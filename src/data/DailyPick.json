@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Grea",
+        "name": "Veight",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040130000",
+        "weapon": "Dagger",
+        "id": "3040532000",
         "race": "Other",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-08-31"
+        "release_date": "2024-05-15"
     }
 }
