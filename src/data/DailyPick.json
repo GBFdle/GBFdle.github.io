@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Lilisette",
-        "series": "tie-in",
-        "weapon": "Dagger",
-        "id": "3040399000",
-        "race": "Other",
-        "gender": "f",
+        "name": "Ragazzo",
+        "series": "summer",
+        "weapon": "Melee",
+        "id": "3040542000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-05-09"
+        "release_date": "2024-07-31"
     }
 }
