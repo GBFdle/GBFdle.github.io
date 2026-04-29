@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Ragazzo",
-        "series": "summer",
-        "weapon": "Melee",
-        "id": "3040542000",
+        "name": "Lancelot",
+        "series": "grand",
+        "weapon": "Sabre,Dagger",
+        "id": "3040374000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-07-31"
+        "release_date": "2021-12-28"
     }
 }
