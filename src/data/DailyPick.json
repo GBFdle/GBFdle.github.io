@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lancelot",
-        "series": "grand",
-        "weapon": "Sabre,Dagger",
-        "id": "3040374000",
+        "name": "Illnott",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040277000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-12-28"
+        "release_date": "2020-05-15"
     }
 }
