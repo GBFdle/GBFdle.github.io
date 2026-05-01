@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Illnott",
-        "series": null,
-        "weapon": "Gun",
-        "id": "3040277000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Reinhardtzar",
+        "series": "grand",
+        "weapon": "Melee",
+        "id": "3040274000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2020-04-30"
     }
 }
