@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Reinhardtzar",
-        "series": "grand",
+        "name": "Tsubasa",
+        "series": null,
         "weapon": "Melee",
-        "id": "3040274000",
-        "race": "Draph",
+        "id": "3040180000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-04-30"
+        "release_date": "2018-08-31"
     }
 }
