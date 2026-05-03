@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Tsubasa",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040180000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Lunalu",
+        "series": "fantasy",
+        "weapon": "Sabre",
+        "id": "3040364000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-08-31"
+        "release_date": "2021-10-31"
     }
 }
