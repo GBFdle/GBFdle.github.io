@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Lunalu",
-        "series": "fantasy",
-        "weapon": "Sabre",
-        "id": "3040364000",
-        "race": "Harvin",
+        "name": "Cendrillon",
+        "series": null,
+        "weapon": "Dagger,Melee",
+        "id": "3040445000",
+        "race": "Other",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-10-31"
+        "release_date": "2023-01-31"
     }
 }
