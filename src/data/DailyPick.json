@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Nobita",
-        "series": "tie-in",
-        "weapon": "Gun",
-        "id": "3040371000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Ilsa",
+        "series": null,
+        "weapon": "Gun,Bow",
+        "id": "3040148000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-12-13"
+        "release_date": "2017-12-31"
     }
 }
