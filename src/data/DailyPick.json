@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Shinsengumi",
-        "series": "tie-in",
-        "weapon": "Katana,Gun",
-        "id": "3040362000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Carmelina",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040042000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-10-15"
+        "release_date": "2015-02-13"
     }
 }
