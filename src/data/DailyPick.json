@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Shinsengumi",
-        "series": "tie-in",
-        "weapon": "Katana,Gun",
-        "id": "3040362000",
-        "race": "Human",
+        "name": "Vaseraga",
+        "series": null,
+        "weapon": "Axe",
+        "id": "3040029000",
+        "race": "Draph",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-10-15"
+        "release_date": "2014-12-31"
     }
 }
