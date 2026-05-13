@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "grand",
-        "weapon": "Sabre,Katana",
-        "id": "3040515000",
+        "name": "Enyo",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040365000",
         "race": "Primal",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-02-29"
+        "release_date": "2021-10-31"
     }
 }
