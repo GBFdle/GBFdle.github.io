@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Zehek",
+        "name": "Morrigna",
         "series": null,
-        "weapon": "Dagger,Melee",
-        "id": "3040316000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Staff",
+        "id": "3040218000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-01-17"
+        "release_date": "2019-05-31"
     }
 }
