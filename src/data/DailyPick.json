@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Morrigna",
+        "name": "Christina",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040218000",
-        "race": "Primal",
+        "weapon": "Gun,Dagger",
+        "id": "3040018000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-05-31"
+        "release_date": "2014-09-27"
     }
 }
