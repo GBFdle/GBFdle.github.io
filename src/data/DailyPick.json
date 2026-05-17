@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Christina",
-        "series": null,
-        "weapon": "Gun,Dagger",
-        "id": "3040018000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Estarriola",
+        "series": "evokers",
+        "weapon": "Staff",
+        "id": "3040163000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-09-27"
+        "release_date": "2019-03-10"
     }
 }
