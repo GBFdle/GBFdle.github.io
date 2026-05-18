@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Estarriola",
-        "series": "evokers",
-        "weapon": "Staff",
-        "id": "3040163000",
-        "race": "Harvin",
-        "gender": "m",
+        "name": "Jeanne d&#039;Arc",
+        "series": "grand",
+        "weapon": "Sabre,Spear",
+        "id": "3040245000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-10"
+        "release_date": "2019-11-16"
     }
 }
