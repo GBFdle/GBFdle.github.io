@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": "summer",
-        "weapon": "Staff,Melee",
-        "id": "3040389000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Drang",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040269000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2022-03-19"
+        "release_date": "2020-03-31"
     }
 }
