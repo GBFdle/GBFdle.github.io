@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Drang",
+        "name": "Cassius",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040269000",
-        "race": "Erune",
+        "weapon": "Melee,Spear",
+        "id": "3040326000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-03-31"
+        "release_date": "2021-03-16"
     }
 }
