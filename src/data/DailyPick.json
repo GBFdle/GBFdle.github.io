@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Cassius",
+        "name": "Tabina",
         "series": null,
-        "weapon": "Melee,Spear",
-        "id": "3040326000",
-        "race": "Other",
-        "gender": "m",
+        "weapon": "Bow,Axe",
+        "id": "3040234000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-03-16"
+        "release_date": "2019-08-31"
     }
 }
