@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tabina",
-        "series": null,
-        "weapon": "Bow,Axe",
-        "id": "3040234000",
+        "name": "Mirin",
+        "series": "holiday",
+        "weapon": "Katana",
+        "id": "3040307000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-31"
+        "release_date": "2020-11-30"
     }
 }
