@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Zeta",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040323000",
-        "race": "Human",
+        "name": "Fif",
+        "series": "eternals",
+        "weapon": "Staff",
+        "id": "3040034000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-02-28"
+        "release_date": "2015-04-16"
     }
 }
