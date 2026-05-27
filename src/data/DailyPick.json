@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Fif",
-        "series": "eternals",
-        "weapon": "Staff",
-        "id": "3040034000",
-        "race": "Harvin",
+        "name": "Rosetta",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040068000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2015-12-29"
     }
 }
