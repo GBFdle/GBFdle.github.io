@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Troue",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040336000",
-        "race": "Erune",
+        "name": "Cassius",
+        "series": "valentine",
+        "weapon": "Spear,Melee",
+        "id": "3040384000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-05-18"
+        "release_date": "2022-02-14"
     }
 }
