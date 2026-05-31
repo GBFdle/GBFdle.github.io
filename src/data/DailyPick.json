@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Cassius",
-        "series": "valentine",
-        "weapon": "Spear,Melee",
-        "id": "3040384000",
-        "race": "Other",
-        "gender": "m",
+        "name": "Metera",
+        "series": "summer",
+        "weapon": "Bow",
+        "id": "3040347000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-02-14"
+        "release_date": "2021-07-31"
     }
 }
