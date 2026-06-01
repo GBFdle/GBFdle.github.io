@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Metera",
-        "series": "summer",
-        "weapon": "Bow",
-        "id": "3040347000",
+        "name": "Ami",
+        "series": "4saints",
+        "weapon": "Gun",
+        "id": "3040528000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-07-31"
+        "release_date": "2024-06-06"
     }
 }
