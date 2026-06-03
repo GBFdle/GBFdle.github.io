@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Enyo",
-        "series": "summer",
-        "weapon": "Spear",
-        "id": "3040470000",
-        "race": "Primal",
-        "gender": "f",
+        "name": "Charioce XVII",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040144000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-07-15"
+        "release_date": "2017-12-28"
     }
 }
