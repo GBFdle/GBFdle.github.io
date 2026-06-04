@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Charioce XVII",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040144000",
+        "name": "Vikala",
+        "series": "summer;12generals",
+        "weapon": "Axe,Melee",
+        "id": "3040408000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-12-28"
+        "release_date": "2022-06-30"
     }
 }
