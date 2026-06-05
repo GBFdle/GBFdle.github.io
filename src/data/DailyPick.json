@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vikala",
-        "series": "summer;12generals",
-        "weapon": "Axe,Melee",
-        "id": "3040408000",
-        "race": "Human",
+        "name": "Heles",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040208000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-06-30"
+        "release_date": "2019-02-28"
     }
 }
