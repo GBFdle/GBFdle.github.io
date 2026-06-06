@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Heles",
+        "name": "Troue",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040208000",
+        "weapon": "Sabre",
+        "id": "3040336000",
         "race": "Erune",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2021-05-18"
     }
 }
