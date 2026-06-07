@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Troue",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040336000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Magisa",
+        "series": "summer",
+        "weapon": "Staff,Melee",
+        "id": "3040412000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-05-18"
+        "release_date": "2022-07-31"
     }
 }
