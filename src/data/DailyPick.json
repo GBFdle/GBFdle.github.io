@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "New Generations",
-        "series": "tie-in",
-        "weapon": "Sabre,Gun",
-        "id": "3040275000",
+        "name": "Jamil",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040404000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-05-15"
+        "release_date": "2022-05-31"
     }
 }
