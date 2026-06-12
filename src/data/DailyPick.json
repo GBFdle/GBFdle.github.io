@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Seofon",
-        "series": "fantasy;eternals",
-        "weapon": "Sabre",
-        "id": "3040451000",
+        "name": "Gwynne",
+        "series": null,
+        "weapon": "Sabre,Gun",
+        "id": "3040406000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-03-04"
+        "release_date": "2022-06-17"
     }
 }
