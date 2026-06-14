@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Heles",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040208000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Katsuki Bakugo",
+        "series": "tie-in",
+        "weapon": "Melee,Gun",
+        "id": "3040505000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-02-28"
+        "release_date": "2024-01-12"
     }
 }
