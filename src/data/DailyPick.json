@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Katsuki Bakugo",
-        "series": "tie-in",
-        "weapon": "Melee,Gun",
-        "id": "3040505000",
+        "name": "Petra",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040047000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-01-12"
+        "release_date": "2015-04-30"
     }
 }
