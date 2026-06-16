@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Petra",
+        "name": "Spinnah",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040047000",
+        "weapon": "Dagger",
+        "id": "3040523000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-30"
+        "release_date": "2024-04-15"
     }
 }
