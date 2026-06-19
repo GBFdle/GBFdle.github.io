@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Noa",
-        "series": "grand",
-        "weapon": "Staff,Gun",
-        "id": "3040255000",
-        "race": "Primal",
+        "name": "Seofon",
+        "series": "fantasy;eternals",
+        "weapon": "Sabre",
+        "id": "3040451000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2023-03-04"
     }
 }
