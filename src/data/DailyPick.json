@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Chloe",
+        "name": "Anna",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040530000",
-        "race": "Erune",
+        "weapon": "Staff",
+        "id": "3040402000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-04-30"
+        "release_date": "2022-05-20"
     }
 }
