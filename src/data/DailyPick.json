@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Anna",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040402000",
-        "race": "Human",
+        "name": "Hallessena",
+        "series": "summer",
+        "weapon": "Axe",
+        "id": "3040540000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-05-20"
+        "release_date": "2024-07-16"
     }
 }
