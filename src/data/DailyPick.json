@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Hallessena",
-        "series": "summer",
-        "weapon": "Axe",
-        "id": "3040540000",
+        "name": "Eahta",
+        "series": "eternals",
+        "weapon": "Katana",
+        "id": "3040037000",
         "race": "Draph",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-07-16"
+        "release_date": "2015-04-16"
     }
 }
