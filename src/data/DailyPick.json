@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Eahta",
-        "series": "eternals",
-        "weapon": "Katana",
-        "id": "3040037000",
-        "race": "Draph",
+        "name": "Aglovale",
+        "series": "yukata",
+        "weapon": "Sabre",
+        "id": "3040545000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2024-08-16"
     }
 }
