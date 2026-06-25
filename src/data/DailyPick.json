@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Aglovale",
-        "series": "yukata",
-        "weapon": "Sabre",
-        "id": "3040545000",
-        "race": "Human",
+        "name": "Drang",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040269000",
+        "race": "Erune",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-08-16"
+        "release_date": "2020-03-31"
     }
 }
