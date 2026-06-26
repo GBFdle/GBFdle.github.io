@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Drang",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040269000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Haaselia",
+        "series": "evokers",
+        "weapon": "Staff,Melee",
+        "id": "3040168000",
+        "race": "Harvin",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-03-31"
+        "release_date": "2019-03-10"
     }
 }
