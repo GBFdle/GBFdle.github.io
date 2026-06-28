@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": "valentine",
+        "name": "Sen",
+        "series": null,
         "weapon": "Melee",
-        "id": "3040151000",
-        "race": "Primal",
+        "id": "3040204000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-02-14"
+        "release_date": "2019-01-31"
     }
 }
