@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Sen",
+        "name": "Yodarha",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040204000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre,Katana",
+        "id": "3040064000",
+        "race": "Harvin",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-01-31"
+        "release_date": "2015-11-19"
     }
 }
