@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Herja",
+        "name": "Azazel",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040271000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Dagger,Melee",
+        "id": "3040137000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-04-15"
+        "release_date": "2017-10-17"
     }
 }
