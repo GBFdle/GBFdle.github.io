@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Tien",
-        "series": "eternals",
-        "weapon": "Gun",
-        "id": "3040039000",
+        "name": "Manamel",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040401000",
         "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-16"
+        "release_date": "2022-05-20"
     }
 }
