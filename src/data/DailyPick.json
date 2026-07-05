@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Seofon",
-        "series": "fantasy;eternals",
-        "weapon": "Sabre",
-        "id": "3040451000",
+        "name": "Benjamin",
+        "series": "fantasy",
+        "weapon": "Sabre,Harp",
+        "id": "3040366000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-03-04"
+        "release_date": "2021-11-16"
     }
 }
