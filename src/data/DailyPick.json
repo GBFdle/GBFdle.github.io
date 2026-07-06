@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Benjamin",
-        "series": "fantasy",
-        "weapon": "Sabre,Harp",
-        "id": "3040366000",
+        "name": "Florence",
+        "series": "halloween",
+        "weapon": "Staff",
+        "id": "3040429000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-11-16"
+        "release_date": "2022-10-16"
     }
 }
