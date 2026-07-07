@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Florence",
-        "series": "halloween",
+        "name": "Europa",
+        "series": "summer",
         "weapon": "Staff",
-        "id": "3040429000",
-        "race": "Human",
+        "id": "3040226000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-10-16"
+        "release_date": "2019-07-31"
     }
 }
