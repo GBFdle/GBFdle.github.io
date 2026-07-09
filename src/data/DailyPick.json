@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tabina",
-        "series": "summer",
-        "weapon": "Axe,Bow",
-        "id": "3040350000",
-        "race": "Human",
+        "name": "Europa",
+        "series": "grand",
+        "weapon": "Staff,Spear",
+        "id": "3040190000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-08-07"
+        "release_date": "2018-10-17"
     }
 }
