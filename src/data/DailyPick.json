@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Mireille and Risette",
+        "name": "Romeo",
         "series": null,
-        "weapon": "Dagger, Melee",
-        "id": "3040302000",
+        "weapon": "Sabre,Staff",
+        "id": "3040098000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-10-31"
+        "release_date": "2016-10-14"
     }
 }
