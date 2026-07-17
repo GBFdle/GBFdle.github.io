@@ -2,13 +2,13 @@
     "title": {
         "element": "Water",
         "rarity": "SSR",
-        "name": "Romeo",
-        "series": null,
-        "weapon": "Sabre,Staff",
-        "id": "3040098000",
+        "name": "Diantha",
+        "series": "summer",
+        "weapon": "Harp",
+        "id": "3040129000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-10-14"
+        "release_date": "2017-08-15"
     }
 }
