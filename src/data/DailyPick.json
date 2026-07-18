@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Diantha",
-        "series": "summer",
-        "weapon": "Harp",
-        "id": "3040129000",
-        "race": "Human",
+        "name": "Rosetta",
+        "series": "holiday",
+        "weapon": "Dagger",
+        "id": "3040026000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-15"
+        "release_date": "2014-12-16"
     }
 }
