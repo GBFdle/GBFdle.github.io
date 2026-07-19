@@ -2,13 +2,13 @@
     "title": {
         "element": "Dark",
         "rarity": "SSR",
-        "name": "Rosetta",
-        "series": "holiday",
-        "weapon": "Dagger",
-        "id": "3040026000",
-        "race": "Primal",
+        "name": "Florence",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040552000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-12-16"
+        "release_date": "2024-09-30"
     }
 }
