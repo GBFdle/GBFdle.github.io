@@ -2,13 +2,13 @@
     "title": {
         "element": "Earth",
         "rarity": "SSR",
-        "name": "Sandalphon",
-        "series": "grand;fantasy",
-        "weapon": "Sabre,Katana",
-        "id": "3040312000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Lennah",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040340000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-28"
+        "release_date": "2021-06-18"
     }
 }
