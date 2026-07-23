@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lennah",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040340000",
-        "race": "Other",
+        "name": "Diantha",
+        "series": "summer",
+        "weapon": "Harp",
+        "id": "3040129000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-06-18"
+        "release_date": "2017-08-15"
     }
 }
