@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Diantha",
-        "series": "summer",
-        "weapon": "Harp",
-        "id": "3040129000",
-        "race": "Human",
+        "name": "Utsusemi",
+        "series": null,
+        "weapon": "Harp,Dagger",
+        "id": "3040491000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-15"
+        "release_date": "2023-10-31"
     }
 }
