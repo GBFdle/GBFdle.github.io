@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Utsusemi",
+        "name": "Nicholas",
         "series": null,
-        "weapon": "Harp,Dagger",
-        "id": "3040491000",
-        "race": "Draph",
-        "gender": "f",
+        "weapon": "Melee,Katana",
+        "id": "3040315000",
+        "race": "Human,Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-10-31"
+        "release_date": "2020-12-31"
     }
 }
