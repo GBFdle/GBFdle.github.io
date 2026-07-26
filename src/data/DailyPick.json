@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Nicholas",
-        "series": null,
-        "weapon": "Melee,Katana",
-        "id": "3040315000",
-        "race": "Human,Other",
-        "gender": "m",
+        "name": "Lich",
+        "series": "grand",
+        "weapon": "Staff",
+        "id": "3040357000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-31"
+        "release_date": "2021-09-15"
     }
 }
