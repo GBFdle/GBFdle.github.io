@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Lich",
-        "series": "grand",
-        "weapon": "Staff",
-        "id": "3040357000",
+        "name": "Colossus",
+        "series": null,
+        "weapon": "Sabre,Axe",
+        "id": "3040235000",
         "race": "Primal",
-        "gender": "f",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2021-09-15"
+        "release_date": "2019-09-16"
     }
 }
