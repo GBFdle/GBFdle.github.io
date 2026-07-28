@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Colossus",
+        "name": "Lily",
         "series": null,
-        "weapon": "Sabre,Axe",
-        "id": "3040235000",
-        "race": "Primal",
-        "gender": "o",
+        "weapon": "Staff",
+        "id": "3040007000",
+        "race": "Other",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-09-16"
+        "release_date": "2014-03-31"
     }
 }
