@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Lily",
+        "name": "Katalina",
         "series": null,
-        "weapon": "Staff",
-        "id": "3040007000",
-        "race": "Other",
+        "weapon": "Sabre",
+        "id": "3040118000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-03-31"
+        "release_date": "2017-04-30"
     }
 }
