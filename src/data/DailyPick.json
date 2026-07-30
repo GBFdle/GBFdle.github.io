@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Katalina",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040118000",
+        "name": "Dorothy and Claudia",
+        "series": "summer",
+        "weapon": "Gun,Melee",
+        "id": "3040475000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-04-30"
+        "release_date": "2023-07-31"
     }
 }
