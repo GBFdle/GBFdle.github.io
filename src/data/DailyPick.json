@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Dorothy and Claudia",
-        "series": "summer",
-        "weapon": "Gun,Melee",
-        "id": "3040475000",
+        "name": "Magisa",
+        "series": "holiday",
+        "weapon": "Staff,Melee",
+        "id": "3040247000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-07-31"
+        "release_date": "2019-11-30"
     }
 }
