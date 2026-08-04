@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Jessica",
-        "series": "yukata",
-        "weapon": "Gun",
-        "id": "3040227000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Nezha",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040332000",
+        "race": "Primal",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-07-31"
+        "release_date": "2021-04-19"
     }
 }
