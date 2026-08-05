@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Nezha",
-        "series": null,
-        "weapon": "Spear",
-        "id": "3040332000",
+        "name": "Noa",
+        "series": "holiday",
+        "weapon": "Staff,Gun",
+        "id": "3040498000",
         "race": "Primal",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-04-19"
+        "release_date": "2023-12-17"
     }
 }
