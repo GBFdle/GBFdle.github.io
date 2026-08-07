@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Noa",
-        "series": "holiday",
-        "weapon": "Staff,Gun",
-        "id": "3040498000",
-        "race": "Primal",
+        "name": "Aglovale",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040192000",
+        "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-17"
+        "release_date": "2018-10-31"
     }
 }
