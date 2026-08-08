@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Amira",
+        "name": "De La Fille",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040051000",
-        "race": "Other",
+        "weapon": "Sabre",
+        "id": "3040004000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-06-30"
+        "release_date": "2014-03-10"
     }
 }
