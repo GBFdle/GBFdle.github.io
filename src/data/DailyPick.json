@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "De La Fille",
-        "series": null,
+        "name": "Albert",
+        "series": "summer",
         "weapon": "Sabre",
-        "id": "3040004000",
+        "id": "3040290000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-03-10"
+        "release_date": "2020-08-09"
     }
 }
