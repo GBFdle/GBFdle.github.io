@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Albert",
-        "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040290000",
+        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+        "series": "tie-in",
+        "weapon": "Katana",
+        "id": "3040308000",
         "race": "Human",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-08-09"
+        "release_date": "2020-12-08"
     }
 }
