@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
-        "series": "tie-in",
-        "weapon": "Katana",
-        "id": "3040308000",
+        "name": "Mary",
+        "series": "holiday",
+        "weapon": "Gun",
+        "id": "3040143000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-08"
+        "release_date": "2017-12-15"
     }
 }
