@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Medusa",
-        "series": "valentine",
+        "name": "Cerberus",
+        "series": null,
         "weapon": "Melee",
-        "id": "3040151000",
+        "id": "3040016000",
         "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-02-14"
+        "release_date": "2014-08-31"
     }
 }
