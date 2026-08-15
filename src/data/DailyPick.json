@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "De La Fille",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040004000",
-        "race": "Human",
+        "name": "Anthuria",
+        "series": "holiday",
+        "weapon": "Melee,Harp",
+        "id": "3040369000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2014-03-10"
+        "release_date": "2021-11-30"
     }
 }
