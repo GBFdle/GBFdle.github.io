@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Anthuria",
-        "series": "holiday",
-        "weapon": "Melee,Harp",
-        "id": "3040369000",
-        "race": "Erune",
+        "name": "Rosetta",
+        "series": "grand",
+        "weapon": "Dagger",
+        "id": "3040068000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-11-30"
+        "release_date": "2015-12-29"
     }
 }
