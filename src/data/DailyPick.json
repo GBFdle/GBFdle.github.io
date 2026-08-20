@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Cure Black and Cure White",
-        "series": "tie-in",
-        "weapon": "Melee",
-        "id": "3040188000",
-        "race": "Human",
+        "name": "Tikoh",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040414000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-14"
+        "release_date": "2022-08-07"
     }
 }
