@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Tikoh",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040414000",
-        "race": "Erune",
+        "name": "Vira",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040043000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-08-07"
+        "release_date": "2015-02-28"
     }
 }
