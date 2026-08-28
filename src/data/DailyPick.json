@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Yuisis",
-        "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040253000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Lucio",
+        "series": "grand",
+        "weapon": "Katana,Sabre",
+        "id": "3040106000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2019-12-31"
+        "release_date": "2016-12-29"
     }
 }
