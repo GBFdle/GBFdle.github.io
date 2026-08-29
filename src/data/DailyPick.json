@@ -2,13 +2,13 @@
     "title": {
         "element": "Wind",
         "rarity": "SSR",
-        "name": "Monika",
+        "name": "Cantate",
         "series": null,
-        "weapon": "Sabre,Katana",
-        "id": "3040186000",
-        "race": "Human",
+        "weapon": "Harp",
+        "id": "3040461000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-22"
+        "release_date": "2023-04-30"
     }
 }
