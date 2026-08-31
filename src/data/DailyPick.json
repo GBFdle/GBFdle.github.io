@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Cantate",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040461000",
-        "race": "Erune",
+        "name": "Katalina",
+        "series": "grand",
+        "weapon": "Sabre",
+        "id": "3040054000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-04-30"
+        "release_date": "2015-07-31"
     }
 }
