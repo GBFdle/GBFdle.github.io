@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Morrigna",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040218000",
-        "race": "Primal",
+        "name": "Rosamia",
+        "series": "yukata",
+        "weapon": "Sabre",
+        "id": "3040289000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-05-31"
+        "release_date": "2020-07-31"
     }
 }
