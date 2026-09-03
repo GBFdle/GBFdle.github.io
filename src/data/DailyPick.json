@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Rosamia",
-        "series": "yukata",
-        "weapon": "Sabre",
-        "id": "3040289000",
-        "race": "Human",
+        "name": "Ami",
+        "series": "4saints",
+        "weapon": "Gun",
+        "id": "3040528000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-07-31"
+        "release_date": "2024-06-06"
     }
 }
