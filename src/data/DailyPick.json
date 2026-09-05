@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Laguna",
+        "name": "Selfira",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040394000",
-        "race": "Draph",
+        "weapon": "Harp",
+        "id": "3040175000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-04-19"
+        "release_date": "2018-06-30"
     }
 }
