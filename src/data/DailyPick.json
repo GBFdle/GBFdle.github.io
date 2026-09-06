@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Selfira",
-        "series": null,
-        "weapon": "Harp",
-        "id": "3040175000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Lucio",
+        "series": "grand",
+        "weapon": "Katana,Sabre",
+        "id": "3040106000",
+        "race": "Other",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-06-30"
+        "release_date": "2016-12-29"
     }
 }
