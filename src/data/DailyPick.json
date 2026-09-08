@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Jeanne d&#039;Arc",
+        "name": "Wamdus",
         "series": "grand",
-        "weapon": "Sabre,Spear",
-        "id": "3040245000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Staff,Axe",
+        "id": "3040419000",
+        "race": "Harvin",
+        "gender": "o",
         "release date__precision": "1",
-        "release_date": "2019-11-16"
+        "release_date": "2022-08-17"
     }
 }
