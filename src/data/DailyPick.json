@@ -2,13 +2,13 @@
     "title": {
         "element": "Light",
         "rarity": "SSR",
-        "name": "Lucio",
+        "name": "Jeanne d&#039;Arc",
         "series": "grand",
-        "weapon": "Katana,Sabre",
-        "id": "3040106000",
-        "race": "Other",
-        "gender": "m",
+        "weapon": "Sabre,Spear",
+        "id": "3040245000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-12-29"
+        "release_date": "2019-11-16"
     }
 }
