@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Horus",
+        "name": "Percival",
         "series": "summer",
-        "weapon": "Staff",
-        "id": "3040518000",
-        "race": "Primal",
-        "gender": "f",
+        "weapon": "Sabre",
+        "id": "3040090000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2024-03-15"
+        "release_date": "2016-08-04"
     }
 }
