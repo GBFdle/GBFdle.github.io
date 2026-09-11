@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Percival",
+        "name": "Meg",
         "series": "summer",
-        "weapon": "Sabre",
-        "id": "3040090000",
+        "weapon": "Dagger,Melee",
+        "id": "3040346000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-08-04"
+        "release_date": "2021-07-31"
     }
 }
