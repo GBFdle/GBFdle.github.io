@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Meg",
-        "series": "summer",
-        "weapon": "Dagger,Melee",
-        "id": "3040346000",
-        "race": "Human",
+        "name": "Ferry",
+        "series": null,
+        "weapon": "Dagger",
+        "id": "3040073000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-07-31"
+        "release_date": "2016-01-31"
     }
 }
