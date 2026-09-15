@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Lunalu",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040172000",
-        "race": "Harvin",
+        "name": "μ&#039;s First-Years",
+        "series": "tie-in",
+        "weapon": "Harp,Staff",
+        "id": "3040229000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-05-31"
+        "release_date": "2019-08-12"
     }
 }
