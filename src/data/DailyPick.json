@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Grea",
-        "series": null,
+        "name": "Bowman",
+        "series": "fantasy",
         "weapon": "Melee",
-        "id": "3040130000",
-        "race": "Other",
-        "gender": "f",
+        "id": "3040424000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-08-31"
+        "release_date": "2022-09-19"
     }
 }
