@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Bowman",
-        "series": "fantasy",
-        "weapon": "Melee",
-        "id": "3040424000",
-        "race": "Human",
-        "gender": "m",
+        "name": "Narmaya",
+        "series": "grand",
+        "weapon": "Katana",
+        "id": "3040335000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-09-19"
+        "release_date": "2021-04-30"
     }
 }
