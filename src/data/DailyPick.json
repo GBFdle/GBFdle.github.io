@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Narmaya",
-        "series": "grand",
-        "weapon": "Katana",
-        "id": "3040335000",
-        "race": "Draph",
+        "name": "Nemone",
+        "series": "holiday",
+        "weapon": "Spear,Axe",
+        "id": "3040306000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2021-04-30"
+        "release_date": "2020-11-30"
     }
 }
