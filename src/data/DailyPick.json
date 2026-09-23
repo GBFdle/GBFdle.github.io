@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Nemone",
-        "series": null,
-        "weapon": "Axe,Spear",
-        "id": "3040085000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Mugen",
+        "series": "grand",
+        "weapon": "Melee,Harp",
+        "id": "3040267000",
+        "race": "Draph",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2016-05-31"
+        "release_date": "2020-03-17"
     }
 }
