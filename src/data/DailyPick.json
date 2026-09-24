@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Mugen",
-        "series": "grand",
-        "weapon": "Melee,Harp",
-        "id": "3040267000",
-        "race": "Draph",
+        "name": "Cassius",
+        "series": null,
+        "weapon": "Melee,Spear",
+        "id": "3040326000",
+        "race": "Other",
         "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-03-17"
+        "release_date": "2021-03-16"
     }
 }
