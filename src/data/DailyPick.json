@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Nina Drango",
+        "name": "Satyr",
         "series": null,
-        "weapon": "Melee",
-        "id": "3040133000",
-        "race": "Other",
+        "weapon": "Staff,Sabre",
+        "id": "3040280000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-09-20"
+        "release_date": "2020-05-31"
     }
 }
