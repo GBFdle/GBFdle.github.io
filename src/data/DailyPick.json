@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Satyr",
+        "name": "Arulumaya",
         "series": null,
-        "weapon": "Staff,Sabre",
-        "id": "3040280000",
-        "race": "Primal",
+        "weapon": "Staff",
+        "id": "3040367000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-05-31"
+        "release_date": "2021-11-16"
     }
 }
