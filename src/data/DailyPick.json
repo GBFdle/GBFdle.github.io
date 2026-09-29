@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Razia",
+        "name": "Clarisse",
         "series": null,
-        "weapon": "Spear,Gun",
-        "id": "3040109000",
-        "race": "Draph",
+        "weapon": "Staff",
+        "id": "3040121000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-01-31"
+        "release_date": "2017-05-19"
     }
 }
