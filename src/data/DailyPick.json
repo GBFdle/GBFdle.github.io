@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Wilnas",
-        "series": "grand",
-        "weapon": "Melee,Axe",
-        "id": "3040381000",
-        "race": "Human",
-        "gender": "o",
+        "name": "Yuel",
+        "series": null,
+        "weapon": "Katana,Harp",
+        "id": "3040006000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-01-31"
+        "release_date": "2014-04-30"
     }
 }
