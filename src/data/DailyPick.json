@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Yuel",
+        "name": "Yurius",
         "series": null,
-        "weapon": "Katana,Harp",
-        "id": "3040006000",
-        "race": "Erune",
-        "gender": "f",
+        "weapon": "Sabre,Staff",
+        "id": "3040199000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2014-04-30"
+        "release_date": "2018-11-15"
     }
 }
