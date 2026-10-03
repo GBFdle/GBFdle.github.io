@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Yurius",
-        "series": null,
-        "weapon": "Sabre,Staff",
-        "id": "3040199000",
+        "name": "Teena",
+        "series": "summer",
+        "weapon": "Staff",
+        "id": "3040266000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-11-15"
+        "release_date": "2020-03-17"
     }
 }
