@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Teena",
-        "series": "summer",
-        "weapon": "Staff",
-        "id": "3040266000",
+        "name": "Aglovale and Tor",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040426000",
         "race": "Human",
-        "gender": "f",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-03-17"
+        "release_date": "2022-09-30"
     }
 }
