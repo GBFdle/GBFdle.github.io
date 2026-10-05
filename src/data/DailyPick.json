@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Aglovale and Tor",
+        "name": "Vira",
         "series": null,
         "weapon": "Sabre",
-        "id": "3040426000",
+        "id": "3040043000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-09-30"
+        "release_date": "2015-02-28"
     }
 }
