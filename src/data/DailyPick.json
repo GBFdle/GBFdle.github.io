@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Vira",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040043000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Seruel",
+        "series": "holiday",
+        "weapon": "Sabre,Dagger",
+        "id": "3040250000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2015-02-28"
+        "release_date": "2019-12-15"
     }
 }
