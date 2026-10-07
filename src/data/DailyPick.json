@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Seruel",
-        "series": "holiday",
-        "weapon": "Sabre,Dagger",
-        "id": "3040250000",
-        "race": "Erune",
-        "gender": "m",
+        "name": "Raziel",
+        "series": null,
+        "weapon": "Gun,Staff",
+        "id": "3040516000",
+        "race": "Primal",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-12-15"
+        "release_date": "2024-03-12"
     }
 }
