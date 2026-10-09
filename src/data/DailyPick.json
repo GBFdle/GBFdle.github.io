@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Lunalu",
-        "series": "fantasy",
+        "name": "Albert",
+        "series": "summer",
         "weapon": "Sabre",
-        "id": "3040364000",
-        "race": "Harvin",
-        "gender": "f",
+        "id": "3040290000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-10-31"
+        "release_date": "2020-08-09"
     }
 }
