@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Diantha",
+        "name": "Beatrix",
         "series": "summer",
-        "weapon": "Harp",
-        "id": "3040129000",
+        "weapon": "Sabre",
+        "id": "3040110000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-08-15"
+        "release_date": "2017-02-13"
     }
 }
