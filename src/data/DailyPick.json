@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Jeanne d&#039;Arc",
+        "name": "Sara",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040080000",
+        "weapon": "Melee",
+        "id": "3040236000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-04-04"
+        "release_date": "2019-09-16"
     }
 }
