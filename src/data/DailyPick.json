@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Sara",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040236000",
-        "race": "Human",
+        "name": "Yuel",
+        "series": "summer",
+        "weapon": "Katana,Harp",
+        "id": "3040210000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-09-16"
+        "release_date": "2019-03-18"
     }
 }
