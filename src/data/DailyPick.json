@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Yuel",
-        "series": "summer",
-        "weapon": "Katana,Harp",
-        "id": "3040210000",
-        "race": "Erune",
+        "name": "Zooey",
+        "series": "summer;grand",
+        "weapon": "Sabre",
+        "id": "3040092000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-03-18"
+        "release_date": "2016-08-18"
     }
 }
