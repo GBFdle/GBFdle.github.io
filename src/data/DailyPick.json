@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Amelia",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040444000",
-        "race": "Human",
+        "name": "Narmaya",
+        "series": "yukata",
+        "weapon": "Katana",
+        "id": "3040392000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-01-19"
+        "release_date": "2022-03-31"
     }
 }
