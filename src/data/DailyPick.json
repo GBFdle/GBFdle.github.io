@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Earth",
         "rarity": "SSR",
-        "name": "Narmaya",
+        "name": "Pholia",
         "series": "yukata",
-        "weapon": "Katana",
-        "id": "3040392000",
-        "race": "Draph",
+        "weapon": "Staff,Melee",
+        "id": "3040469000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-03-31"
+        "release_date": "2023-06-30"
     }
 }
