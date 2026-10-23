@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Pholia",
-        "series": "yukata",
-        "weapon": "Staff,Melee",
-        "id": "3040469000",
-        "race": "Erune",
+        "name": "Jasmine",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040459000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-06-30"
+        "release_date": "2023-04-18"
     }
 }
