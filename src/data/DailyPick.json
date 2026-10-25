@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Deliford",
+        "name": "Abby",
         "series": null,
-        "weapon": "Spear",
-        "id": "3040507000",
+        "weapon": "Axe",
+        "id": "3040284000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-01-15"
+        "release_date": "2020-06-30"
     }
 }
