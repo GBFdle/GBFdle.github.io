@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Abby",
+        "name": "Sutera",
         "series": null,
-        "weapon": "Axe",
-        "id": "3040284000",
-        "race": "Human",
+        "weapon": "Bow",
+        "id": "3040303000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-06-30"
+        "release_date": "2020-10-31"
     }
 }
