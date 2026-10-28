@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Sutera",
+        "name": "Anne",
         "series": null,
-        "weapon": "Bow",
-        "id": "3040303000",
-        "race": "Erune",
+        "weapon": "Spear,Staff",
+        "id": "3040524000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-10-31"
+        "release_date": "2024-04-15"
     }
 }
