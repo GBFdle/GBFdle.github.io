@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Light",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Nicholas",
-        "series": null,
-        "weapon": "Melee,Katana",
-        "id": "3040315000",
-        "race": "Human,Other",
-        "gender": "m",
+        "name": "De La Fille",
+        "series": "yukata",
+        "weapon": "Sabre",
+        "id": "3040520000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-12-31"
+        "release_date": "2024-03-31"
     }
 }
