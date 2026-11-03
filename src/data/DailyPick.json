@@ -2,13 +2,13 @@
     "title": {
         "element": "Fire",
         "rarity": "SSR",
-        "name": "Ms. Miranda",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040339000",
-        "race": "Human",
-        "gender": "f",
+        "name": "Nehan",
+        "series": "valentine",
+        "weapon": "Gun,Melee",
+        "id": "3040511000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2021-05-31"
+        "release_date": "2024-02-14"
     }
 }
