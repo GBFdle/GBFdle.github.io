@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Light",
         "rarity": "SSR",
-        "name": "Metera",
-        "series": null,
-        "weapon": "Bow",
-        "id": "3040072000",
-        "race": "Erune",
+        "name": "Pecorine",
+        "series": "tie-in",
+        "weapon": "Sabre",
+        "id": "3040200000",
+        "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-01-15"
+        "release_date": "2018-12-09"
     }
 }
