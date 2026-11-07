@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Azazel",
-        "series": "halloween",
-        "weapon": "Dagger,Spear",
-        "id": "3040300000",
-        "race": "Primal",
-        "gender": "m",
+        "name": "Chloe",
+        "series": null,
+        "weapon": "Melee",
+        "id": "3040530000",
+        "race": "Erune",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2020-10-17"
+        "release_date": "2024-04-30"
     }
 }
