@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Tabina",
-        "series": null,
-        "weapon": "Bow,Axe",
-        "id": "3040234000",
-        "race": "Human",
+        "name": "Payila",
+        "series": "12generals",
+        "weapon": "Staff",
+        "id": "3040502000",
+        "race": "Draph",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2019-08-31"
+        "release_date": "2023-12-31"
     }
 }
