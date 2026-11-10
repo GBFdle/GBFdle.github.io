@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Payila",
-        "series": "12generals",
-        "weapon": "Staff",
-        "id": "3040502000",
-        "race": "Draph",
+        "name": "Mimlemel",
+        "series": "summer",
+        "weapon": "Melee,Harp",
+        "id": "3040292000",
+        "race": "Harvin",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2023-12-31"
+        "release_date": "2020-08-17"
     }
 }
