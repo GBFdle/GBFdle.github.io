@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Mimlemel",
-        "series": "summer",
-        "weapon": "Melee,Harp",
-        "id": "3040292000",
-        "race": "Harvin",
-        "gender": "f",
+        "name": "Lancelot",
+        "series": null,
+        "weapon": "Sabre,Dagger",
+        "id": "3040140000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2020-08-17"
+        "release_date": "2017-11-30"
     }
 }
