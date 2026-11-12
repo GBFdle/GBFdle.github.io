@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Lancelot",
+        "name": "Gwynne",
         "series": null,
-        "weapon": "Sabre,Dagger",
-        "id": "3040140000",
+        "weapon": "Sabre,Gun",
+        "id": "3040406000",
         "race": "Human",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2017-11-30"
+        "release_date": "2022-06-17"
     }
 }
