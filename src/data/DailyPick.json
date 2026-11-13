@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Gwynne",
+        "name": "Athena",
         "series": null,
-        "weapon": "Sabre,Gun",
-        "id": "3040406000",
-        "race": "Human",
+        "weapon": "Spear",
+        "id": "3040202000",
+        "race": "Primal",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2022-06-17"
+        "release_date": "2018-12-31"
     }
 }
