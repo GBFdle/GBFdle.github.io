@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Raziel",
-        "series": "summer",
-        "weapon": "Gun,Staff",
-        "id": "3040538000",
-        "race": "Primal",
-        "gender": "Female",
+        "name": "Jessica",
+        "series": null,
+        "weapon": "Gun",
+        "id": "3040423000",
+        "race": "Human",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-06-30"
+        "release_date": "2022-09-19"
     }
 }
