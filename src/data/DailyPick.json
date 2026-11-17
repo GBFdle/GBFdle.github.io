@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Aglovale",
+        "name": "Aliza",
         "series": null,
-        "weapon": "Sabre",
-        "id": "3040192000",
-        "race": "Human",
-        "gender": "m",
+        "weapon": "Melee",
+        "id": "3040083000",
+        "race": "Draph",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2018-10-31"
+        "release_date": "2016-05-02"
     }
 }
