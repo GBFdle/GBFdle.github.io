@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Aliza",
-        "series": null,
-        "weapon": "Melee",
-        "id": "3040083000",
-        "race": "Draph",
+        "name": "Freezie",
+        "series": "fantasy",
+        "weapon": "Gun",
+        "id": "3040182000",
+        "race": "Erune",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2016-05-02"
+        "release_date": "2018-09-16"
     }
 }
