@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Freezie",
-        "series": "fantasy",
-        "weapon": "Gun",
-        "id": "3040182000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Albert",
+        "series": "summer",
+        "weapon": "Sabre",
+        "id": "3040290000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-09-16"
+        "release_date": "2020-08-09"
     }
 }
