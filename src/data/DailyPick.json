@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Earth",
+        "element": "Dark",
         "rarity": "SSR",
-        "name": "Helel ben Shalem",
-        "series": "holiday",
-        "weapon": "Spear,Staff",
-        "id": "3040497000",
-        "race": "Other",
-        "gender": "o",
+        "name": "Sevastien",
+        "series": null,
+        "weapon": "Sabre",
+        "id": "3040548000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2023-12-17"
+        "release_date": "2024-08-31"
     }
 }
