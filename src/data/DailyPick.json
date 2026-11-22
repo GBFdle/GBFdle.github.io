@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Fire",
         "rarity": "SSR",
-        "name": "Sevastien",
-        "series": null,
-        "weapon": "Sabre",
-        "id": "3040548000",
+        "name": "Ilsa",
+        "series": "summer",
+        "weapon": "Bow,Gun",
+        "id": "3040177000",
         "race": "Erune",
-        "gender": "m",
+        "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-08-31"
+        "release_date": "2018-07-31"
     }
 }
