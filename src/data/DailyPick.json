@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Fire",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Ilsa",
-        "series": "summer",
-        "weapon": "Bow,Gun",
-        "id": "3040177000",
-        "race": "Erune",
-        "gender": "f",
+        "name": "Nezahualpilli",
+        "series": null,
+        "weapon": "Spear",
+        "id": "3040003000",
+        "race": "Human",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2018-07-31"
+        "release_date": "2014-03-10"
     }
 }
