@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Dark",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "De La Fille",
-        "series": "yukata",
-        "weapon": "Sabre",
-        "id": "3040520000",
+        "name": "Petra",
+        "series": null,
+        "weapon": "Staff",
+        "id": "3040047000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2024-03-31"
+        "release_date": "2015-04-30"
     }
 }
