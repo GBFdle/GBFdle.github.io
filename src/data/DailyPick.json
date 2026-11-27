@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Wind",
+        "element": "Water",
         "rarity": "SSR",
-        "name": "Petra",
-        "series": null,
-        "weapon": "Staff",
-        "id": "3040047000",
+        "name": "Diantha",
+        "series": "summer",
+        "weapon": "Harp",
+        "id": "3040129000",
         "race": "Human",
         "gender": "f",
         "release date__precision": "1",
-        "release_date": "2015-04-30"
+        "release_date": "2017-08-15"
     }
 }
