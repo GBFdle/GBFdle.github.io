@@ -1,14 +1,14 @@
 {
     "title": {
-        "element": "Water",
+        "element": "Wind",
         "rarity": "SSR",
-        "name": "Diantha",
+        "name": "Eustace",
         "series": "summer",
-        "weapon": "Harp",
-        "id": "3040129000",
-        "race": "Human",
-        "gender": "f",
+        "weapon": "Gun,Dagger",
+        "id": "3040411000",
+        "race": "Erune",
+        "gender": "m",
         "release date__precision": "1",
-        "release_date": "2017-08-15"
+        "release_date": "2022-07-31"
     }
 }
